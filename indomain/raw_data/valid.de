@@ -1,0 +1,500 @@
+Alle auf dem Gerät installierten Bücher
+Bilddateien anzeigen und bearbeiten
+Unbekannter Standarttyp %d
+&Hilfe
+Kürzelbeschriftung
+Datenträgerparameter
+Descent 1
+#Beschädigt: %ld
+Klipper
+Snake4
+Konnte WriteBootstrap nicht öffnen. Datei: %s: ERR=%s
+Dienstname:
+Ein Fenster zum Fotografieren auswählen
+Eingebaute Shell-Kommandos aktivieren und deaktivieren. Aktiviert und deaktiviert eingebaute Shell-Kommandos. Die Deaktivierung erlaubt Ihnen, eigene Kommandos mit demselben Namen wie die eingebauten Kommandos zu nutzen, ohne den kompletten Pfad angeben zu müssen. Optionen: -a\tGibt eine Liste der eingebauten Kommandos aus inklusive der \t\tInformation, ob sie aktiv sind oder nicht. -n\tdeaktiviert jedes NAME oder gibt eine Liste der deaktivierten \t\teingebauten Kommandos aus. -p\tGibt eine Liste der eingebauten Kommandos in einem \t\twiederverwendbaren Format aus. -s\tGibt nur die Namen der »speziellen« in POSIX eingebauten \t\tKommandos aus. Optionen zur Kontrolle des dynamischen Ladens: -f\tLade eingebautes Kommando NAME aus dem geteilten Objekt \t\tDATEINAME. -d\tEntfernt ein mit »-f« geladenes eingebautes Kommando. Ohne Optionen ist jedes NAME aktiviert. Um das unter $PATH liegende Kommando »test« anstelle der eingebauten Version zu nutzen, geben Sie »enable -n test« ein. Rückgabewert: Gibt »Erfolg« zurück, außer NAME ist kein eingebautes Kommando oder ein Fehler tritt auf.
+mia-lmpick Version 0.2.10
+Ophcrack
+Karl Eichwalder <ke\@suse\.de> Christian Meyer <chrisime\@gnome\.org> Christian Neumair <christian\-neumair\@web\.de> Carsten Schaar <nhadcasc\@fs\-maphy\.uni\-hannover\.de> Matthias Warkus <mawarkus\@gnome\.org> Frank Arnold <frank\@scirocco\-5v\-turbo\.de> Manuel Borchers <m\.borchers\@gnome\-de\.org> Hendrik Richter <hrichter\@gnome\.org> Benedikt Wicklein <benedikt\.wicklein\@googlemail\.com> Philipp Kerling <k\.philipp\@gmail\.com> Björn Deiseroth <service\@dual\-creators\.de> Andre Klapper <ak\-47\@gmx\.net> Mario Blättermann <mario\.blaettermann\@gmail\.com> Christian Kirbach <Christian\.Kirbach\@googlemail\.com> Launchpad Contributions: Benjamin Steinwender https://launchpad.net/~b-u Christian Kirbach https://launchpad.net/~christian-kirbach-e Jakob Kramer https://launchpad.net/~jakobk Mario Blättermann https://launchpad.net/~mario.blaettermann
+Fourteen
+Erweiterte interaktive Python-Konsole
+übersprungen
+gFTP
+Titelinformationen konnten nicht abgefragt werden
+%s: Undefinierte Version: %s
+Fügt ein Verzeichnis dem Stapel hinzu. Legt einen Verzeichnisnamen auf den Verzeichnisstapel oder rotiert diesen so, dass das Arbeitsverzeichnis auf der Spitze des Stapels liegt. Ohne Argumente werden die obersten zwei Verzeichnisse auf dem Stapel vertauscht. Optionen: -n\tUnterdrückt das Wechseln in das Verzeichnis beim Hinzufügen \t\tzum Stapel, sodass nur der Stapel verändert wird. Argumente: +N\tRotiert den Stapel so, dass das N-te Verzeichnis \t\t(angezeigt von »dirs«, gezählt von links) sich an der Spitze \t\tdes Stapels befindet. -N\tRotiert den Stapel so, dass das N-te Verzeichnis (angezeigt von \t\t»dirs«, gezählt von rechts) sich an der Spitze des Stapels \t\tbefindet. Verzeichnis\tLegt VERZEICHNIS auf die Spitze des Verzeichnisstapels und \t\twechselt dorthin. Der Verzeichnisstapel kann mit dem Kommando »dirs« angezeigt werden.
+Fehler: %B nutzt keine Maverick-Anweisungen, %B jedoch schon
+Migration Job Type Schlüsselwort erwartet, erhalten: %s
+Arpeggiator-Sequencer-LFO
+Beseitigt die kurze Wiedergabe-Pause zwischen zwei Titeln. Nützlich für Konzeptalben und klassische Musik
+Volltextsuche für Sylpheed
+%P: kann Zweig-Stub »%s« nicht finden
+Holen:errorIgn
+Ungültige Nutzungsdauer definiert: %s
+Barry-Arbeitsplatzleiste
+%B: Sh_link [%d] in Abschnitt »%A« ist falsch
+QViaggiaTreno
+Nachbildung des Mehrspielermodus vom Ego-Shooter Doom
+Downloads, letzter Monat:
+Info
+fehlt
+Kanal %d nicht definiert
+%s: Kann die Vorgabe-ACL von "%s" nicht setzen: %s
+Name %s Länge %d zu lang, Maximum ist %d
+%B(%A): Interner Fehler: Außerhalb des zulässigen Bereichs
+Geometrische Konstruktionen untersuchen
+Medien im_portieren …
+Multibyte-Zeichenkette nach »%s« kann nicht dekodiert werden.
+ExecutablePath des Berichts überschreiben
+Das Spiel hat keine Lösung. Machen Sie Züge rückgängig oder starten Sie erneut.
+Gwyddion
+Konfiguriert Readline-Tastenzuordnungen und Variablen. Weist eine Tastensequenz einer Readline-Funktion oder einem Makro zu oder setzt eine Readline-Variable. Die Argumentsyntax non-option ist zu den Einträgen in ~/.inputrc äquivalent, aber sie müssen als einzelnes Argument übergeben werden. Z.B.: bind '"\\C-x\\C-r": re-read-init-file'. Optionen: -m Keymap Benutzt KEYMAP as Tastaturbelegung für die Laufzeit dieses Kommandos. Gültige Keymap-Namen sind: emacs, emacs-standard, emacs-meta, emacs-ctlx, vi, vi-move, vi-command und vi-insert. -l Listet Funktionsnamen auf. -P Listet Funktionsnamen und Tastenzuordnungen auf. -p Listet Funktionsnamen und Tastenzuordnungen so auf, dass sie direkt als Eingabe verwendet werden können. -S Listet Tastenfolgen und deren Werte auf, die Makros aufrufen. -s Listet Tastenfolgen und deren Werte auf, die Makros aufrufen, dass sie als Eingabe wiederverwendet werden können. -V Listet Variablennamen und Werte auf. -v Listet Variablennamen und Werte so auf, dass sie als Eingabe verwendet werden können. -q Funktionsname Sucht die Tastenfolgen, welche die angegebene Funktion aufrufen. -u Funktionsname Entfernt alle der Funktion zugeordneten Tastenfolgen. -r Tastenfolge Entfernt die Zuweisungen der angegebenen Tastenfolge. -f Dateiname Liest die Tastenzuordnungen aus der angegebenen Datei. -x Tastenfolge:Shell-Kommando\tWeist der Tastenfolge das Shell-Kommando \t\t\t\t\tzu. Rückgabewert: Bind gibt 0 zurück, wenn keine unerkannte Option angegeben wurde oder ein Fehler eintrat.
+Menü
+InstVer
+%s%s%s: %s (Fehlerverursachendes Zeichen ist »%s«).
+Vordefinierte intelligente Wiedergabelisten
+Dateiende beim Suchen nach passender »)« erreicht.
+KNemo
+Version:
+Aptitude einrichten.
+Intelligente Wiedergabeliste löschen
+Festplattenbelegung analysieren
+Entfernen Sie die Karo-Fünf.
+Kein Job für JobId %s gefunden
+Zusätzliche Grafikanwendungen
+Karo-Vier
+Sixteen
+One Is Enough
+Schieber
+--> Run=%s
+Jargon Informatique
+Ein einfaches Musikquiz für GNU/Linux
+WxGeometrie
+Kugeln entfernen
+Untot
+Name
+%s wird entpackt
+Media Eintrag für Volume "%s" nicht gefunden.
+Auswerten der aktuell gewählten Lösung des Abhängigkeitsproblems
+Legen Sie ~a auf ein leeres Eckfeld.
+Möchten Sie fortfahren [J/n]?
+Durch Zusammenfügen von nummerierten Kacheln das Puzzle lösen
+Chemtool
+KAtomic
+Grafische Darstellung von Primern für PCR und Sequencing
+Werden Sie diese Wingdows-Viren los!
+Qsynth ist eine grafische FluidSynth Qt-Benutzeroberfläche
+Profil %s: enthält zusammengeführte Regel %s mit in Konflikt stehenden x-Modifizierern
+lemon
+Hinweis: »%s« wird an Stelle von »%s« gewählt.
+Last._fm
+Probleminformationen werden gesammelt
+Herunterladen von %s fehlgeschlagen: %s
+Swift
+Konnte Datenbank "%s" nicht öffen.
+Bacula-Schlüssel kann nicht zur Systemregistrierung hinzugefügt werden
+%s konnte nicht geöffnet werden, um Aktionen zu protokollieren.
+Bluetooth-Übertragung
+Fehler: basedir '%s' ist kein Verzeichnis - überspringen.
+Der angegebene Schlüssel konnte nicht entfernt werden. Überprüfen Sie, ob Sie den richtigen Fingerabdruck angegeben haben.
+Ihre Anfrage hat mehrere Möglichkeiten für »%s«. Die Auswahl ist im Batch-Modus nicht möglich.
+[%s] %s
+Ein 3D-Spiel basierend auf „Rubiks Würfel“
+Syntax Fehler: Operator erwartet.
+++ --> überspringen, Elternversion ist nicht die gewählte Version
+%B(%s): Warnung: Zusammenarbeit nicht aktiviert. Erstes Auftreten: %B: ARM-Aufruf an Thumb
+System-Aufträge
+Die Anwendung Apport reagiert nicht mehr.
+Gebrauchsdaten löschen …
+Launchpad-Erweiterung für Firefox
+Miro Guide Podcast-Verzeichnis
+8card symbol
+Konfigurations-Werkzeug zu »Laptop Mode Tools«
+%s: base-plus-Versatzumwandlung gegen Registersymbol: (unbekannt) in %s
+Wiedergabe komplett anhalten
+Dopewars
+Ermöglicht es, sich die Maus und den Mauszeiger mit anderen Rechnern zu teilen
+Die Methode »%what:1« ist in »%where:2« nicht implementiert.
+Battle for survival
+Dienstbefehlslänge zu lang
+{0} - {1} von {2} wird geladen
+Grafischer Editor für PSTricks
+Pacemaker
+Betrachter für Dateien im ESRF-Datenformat
+Anzeigeformat für die Statuszeile
+Eigener
+CLIPS
+Gesamtzahl an unterschiedlichen Versionen:
+»%s« kann nicht entfernt werden.
+Ein Werkzeug zur Bereinigung der GConf-Datenbank
+Hierarchisches Notizbuch zur Eingabe und Verwaltung von Notizen und Ideen
+Clone JobId %d gestartet.
+Schreibtrainer
+Die Tastenbelegung ansehen
+%B(%s): Warnung: Zusammenarbeit ist nicht eingeschaltet. Erste Erscheinung: %B: Thumb ruft arm Erwäge Neuverbindung mit --support-old-code eingeschaltet
+Bibliotheksüberwachung
+Urheber
+Grafische Oberfläche für diverse Zip-Formate
+Menüobjekt
+Mit Schablonen Broschüren aus PDF-Dokumenten erstellen
+bpython
+Verbleibende Neuverteilungen: ~a
+XDot
+Wert
+Lernkarteikarten-Programm
+qcomicbook
+Nach diesem Vorgang werden %sB Festplattenplatz zusätzlich benutzt.
+Werk_zeuge
+%sB der Festplatte werden belegt.
+Überwachung von CPU, Hauptspeicher, Laufwerken, Netzwerk, E-Mail
+Xserver Zugriffs-Einschränkung (Standard: direkt)
+_Genre:of
+Missgestaltetes Override %s Zeile %llu #2
+Es konnte keine Verbindung zur Fehlerdatenbank aufgebaut werden. Bitte prüfen Sie Ihre Internetverbindung.
+Benutzeroberfläche verbergen
+Neues Fenster öffnen
+--> RunOnFailure=%u
+Wird nicht mehr benutzt
+Fehler beim Auflösen der Adresse '%s': %s
+Missgestaltetes Override %s Zeile %llu #3
+Lizenz GPLv3+: GNU GPL Version 3 oder jünger <http\:\/\/gnu\.org\/licenses\/gpl\.html>
+Satellitenverfolgungsprogramm
+Falscher Sektionsname »%s« (»none«, »topdir«, »subdir« oder »subdirs« verwenden)
+Die Dateiverwaltung von Enlightenment
+Ein Blogging-Client für WordPress-Blogs
+Clinica
+Bots ansiedeln
+Warnung: %s: %s
+Konnte "%s" für %s nicht setzen
+Abonnieren
+%s wurde als automatisch installiert festgelegt.
+Die erste Lösung dieser Abhängigkeitsprobleme wählen
+Exult Ultima 7 Engine
+Kamerka
+Okteta
+SimpleBurn
+%B(%A): Warnung: Nicht gerichteter Zugriff auf Symbol »%s« im kleinen Datenbereich
+Legen Sie ~a auf einen leeres Platz rechts.
+Nachbau von »Scorched Earth«
+LINGOT Is Not a Guitar-Only Tuner
+Filter, um URL-artige Konstrukte zu überspringen
+Verbesserte, dynamische, Kachel-Fensterverwaltung
+Vorwärts suchen
+Icemon
+PCB-Suite
+Start Sicherung JobId %s, Job=%s
+die Karo-Dame
+Sony-PlayStation-Emulator
+Fortschrittsbalken
+%B: Warnung: Zugewiesener Abschnitt »%s« nicht im Segment
+Browser für Debian-Dokumentationen
+Verbindung zu {0} wird getrennt …
+Eine Erweiterung für Totem, um Streaming-Inhalte von arte.tv anzuschauen
+Vorbereitung zum Herunterladen der Änderungsprotokolle
+%S*%N %s [Version %s]%n
+DateienWiederherstellen
+Ordner auswählen
+Frogr
+Tagua
+Ordner
+%s: Das Nicht-fdpic-Objekt kann nicht in die ausführbare fdpic-Datei gelinkt werden
+Odessa ist ein besseres Spiel. Wirklich.
+Das Abenteuer eines jungen Frosches
+OK
+{0} wird ausgeworfen …Audio CD" or "DVD
+Klavierspiel
+Legitimierungsproblem: Enfernter Server erfordert TLS.
+Elektronischer Notizblock
+Rollleiste
+Aptitude konnte keine Lösung für diese Abhängigkeiten finden. Sie können diese selber auflösen oder »n« zum Beenden eingeben.
+Ein Benutzername für PostgreSQL muss angegeben werden.
+Quellenangaben und Zitate in Ihren Veröffentlichugnen verwalten
+Die frühere Version %s von %s ist bereits installiert
+Kreatives Fotosammlungswerkzeug
+Finden Sie mit Hilfe des Namens oder Inhalts alles, was Sie auf diesem Rechner suchen, mit Tracker
+Keine Pakete gefunden -- geben Sie null oder mehrere Wurzeln der Suche gefolgt vom Paket ein.
+Fehler beim Schreiben der Statusdatei
+Künstler
+PyBridge
+Wissenschaftspakete durchsuchen
+Ein grafisches Hilfsprogramm zum Herunterfahren des Rechners
+Nicht-Overlay-Größe von 0x%v plus maximaler Overlay-Größe von 0x%v übersteigt lokalen Speicher
+System
+Neues Video-CD-Projekt
+Elektronikprojekte erstellen und bearbeiten mit xgsch2pcb
+Chinesisches Schach
+Fehler beim Setzen der Puffergröße %lu: %s
+Fyre
+Video-Untertitel für die GNOME-Arbeitsumgebung
+Fehler beim Schreiben der Kopfzeilen in die Inhaltsdatei
+Mit MIDI steuerbare Audiowiedergabe
+Compiler: g++ %s
+Einfache Textbearbeitung
+Ungültige Steckplatz-Nummer: %s
+Wörterbuchaliase erzeugen
+-l,--list Verbindungen der Ports auflisten
+Bericht kann nicht erstellt werden
+Lunch
+Das Element »sink« konnte nicht erzeugt werden
+Herunterladen der Aktualisierung beendet
+Variable Bitrate verwenden
+Minihilfe
+off
+eMusic-Titel werden heruntergeladen
+eMusic durchsuchen
+Generator für Math-Arbeitsblätter für französische Colleges
+Neues Spiel
+qrq
+Inkrementell
+Eine grafische Oberfläche für die »Argyll CMS«-Bildschirmkalibrierungswerkzeuge
+Kernel Panic
+Dateiname der Ersetzungsliste
+Pumpa
+Ungültige Sicherheitsstufe »%s« (nicht »discard«, »maximum«, »minimum« oder eine Ganzzahl).
+kps
+Schnelle Notizen aus der Zwischenablage erstellen
+Leeren
+Hilfe und Dokumentation
+Zuletzt wiedergegeben
+Atome und andere chemische Systeme ansehen und verändern
+Übergreifende Bibliothek
+Form der Unicodenormalisierung: »none«, »nfd«, »nfc«, »comp«
+Abhängigkeiten
+select Name [in Wortliste ... ;] do Kommandos; done
+%B%s%b wird installiert.
+Günther's RSS Reader
+ProFTPD-FTP-Server-Administration
+Zerstören Sie die Basen der Feinde im Weltraum
+Versuchen Sie, eine Karte in den Reservestapel zu legen
+Lynis Auditierungswerkzeug
+Warnung: Die Option »-C« könnte unerwartete Ergebnisse liefern.
+Urheberrecht (C) 2005 Christian Masopust Geschrieben von Christian Masopust (2005) Version:
+Verfügbare Paketaktualisierung:
+Name der Haupt-Wortliste
+Ein qualitativ hochwertiges Chatprogramm für Spiele mit geringer Latenzzeit
+\\%B: Warnung: ARM-BLX-Anweisung hat ARM-Funktion »%s« als Ziel.
+5card symbol
+Vor dem Rücksprung den Hostname des selektierten Dienstes\r automatisch auflösen
+Spiele Creative Labs Channel-Datei '%s'...
+F: Fehler gehören zu Datei
+Open Yahtzee
+Angehalten (Terminaleingabe)
+Integrierte Python-Entwicklungsumgebung
+Xournal
+BPM-Erkennungstreiber konnte nicht erstellt werden.
+Veraltet – bitte verwenden Sie: --safe-upgrade
+rlvm
+Navit
+Die Standard-Programmalternativen des Systems in /etc/alternatives
+Sofortnachrichtenprogramm
+Vorbis Kommentareditor
+Probleminformationen werden übermittelt
+Ein Vektorbildschirmfoto aufnehmen
+Audio-Wiedergabe mit Zeitstreckung
+Ungültige Anzahl von Argumenten
+W: Verzeichnis %s kann nicht gelesen werden.
+Entfernen Sie das Karo-Ass.
+Titeleigenschaften
+Weitere Informationen finden Sie in der Handbuchseite.
+CD-Nr.
+Beschreibungssignatur von %s
+Alle Titel auswählen
+JACK-Keyboard
+Fehler bei Auftragsaufzeichnung für Auftragsbericht: ERR=%s
+Abgleicheinstellungen
+lierolibre
+Qt4-Designer
+Keine ähnlichen Künstler gefunden
+Exec-Qualifizierer 'i' ist ungültig, ein Qualifizierer, mit dem ein Konflikt besteht, wurde bereits angegeben.
+empfiehlt
+Ein Untertiteleditor, basierend auf GStreamer und Gtk+
+%B: Umwandlung von %s gegen STT_GNU_IFUNC-Symbol »%s« wurde von %s nicht behandelt
+(nicht gefunden)
+Nutzersignal 2
+AppAmor Desktop-Einstellungen
+Metadaten der Musik korrigieren …
+Unbekannter Befehl
+%lu aktualisiert, %lu neu installiert,
+Abes Aufregendes Abenteuer
+Unity Tweak Tool
+Negative Zahlen sind nicht erlaubt
+Imagination
+Einstellungen konnten nicht angezeigt werden
+Anthy – Wörterbuchbearbeitung
+Ein Spiel zum Training Ihres Gedächtnisses
+_Kartenstil
+Benutzermarkierung »%s« wird vom Paket »%s« entfernt.
+PrBoom+
+Dreamchess
+Unbekannte Versionsauswahl, irgendetwas ist ziemlich falsch.
+Fehlgeschlagen. Re-Initialisierung.
+fv FITS Editor
+Giant
+Der Schlüssel »%key:1« ist keine Liste.
+BPM erkennen
+Pakete:
+Gravity Wars
+Spinne mit drei Sätzen
+Der Wert »%value:2« wird nicht %accepted:3 und ist daher für den Schlüssel »%key:1« ungültig.
+Gscriptor
+pthread_mutex_init: ERR=%s
+»p«: das Paket wird zusätzlich zum Entfernen noch vollständig gelöscht.
+Ungültiger Eintrag in Tastenzuweisungsgruppe: »%s«
+7zip – Komprimierungs-/Dekomprimierungswerkzeug
+nicht installiert (Konfigurationsdateien vorhanden)
+Der Maximum-»Cost«-Wert wurde überschritten.
+Ungültige Option: %s
+Charakterisieren Sie die Objektivverzerrung
+Fehlende hexadezimale Ziffer nach \\x.
+*Nichts*
+Tickr – Feed-Leser
+all-packages
+aconnect -i_BAR_-o [Optionen]
+Sprachunterstützung
+gefährliche Umwandlung
+Gtk-- Version %d.%d.%d
+Blam Newsfeedleser
+Auflösungsdienst
+Client-Programm zur Verwaltung von Dateien mit dem Versionskontrollsystem Subversion (SVN)
+GTimer
+Einzelheiten anzeigen
+%s: Gesperrt: Die Ausgabe darf nicht umgeleitet werden.
+Debian-Paketbetrachter
+aber %s soll installiert werden
+++ --> überspringen, nicht relevant laut Parameter
+Gwenview
+Statistik zu früheren Spielen
+Bomberclone
+Gnomad 2
+Steadyflow – Download-Verwaltung
+_Zurücksetzen_Restart" is the menu item 'Game->Restart', implies "Restart Game
+Arithmetische, wissenschaftliche und finanztechnische Berechnungen durchführen
+Mauszeiger und Symbole aus MS Windows-kompatiblen Ressourcendateien extrahieren
+-d, --default Die Vorgabe-ACL ausgeben
+%s ist ein virtuelles Paket, bereitgestellt von:
+Kursvoraussetzungstabellen bearbeiten
+Widgets für Ihren Schreibtisch
+Fehlende Stamm-Endung-Kombinationen erzeugen
+Filme
+Ungültiger Datensatzschlüssel
+Betrachter für Quellcodeabdeckungen
+<filed: fehlerhafte Attribute, 3 erwartet, erhalten: %d msglen=%d msg=%s
+ip2k-Linker: Redundante Seitenanweisung bei 0x%08lx (Ziel = 0x%08lx).
+die Anzeige der Versionsnummern umschalten
+Wolf4SDL
+cpu=HC11]
+Die Ur-Quan Meister
+%s: sortierte .crange-Einträge konnten nicht geschrieben werden
+Fangen Sie die Bomben
+XBMC-Medienzentrum
+Zu viele Objekte
+Docky
+Nach -q= wurde eine Nummer erwartet
+Legen Sie eine oder mehrere Karten auf den leeren Platz
+Monte Carlo
+Aufruf: %s [-%s] datei ...
+Hexter
+Sponc
+Buch öffnen
+Fortschrittliche Runden
+Jaaa (mit ALSA-Unterstützung)
+Spiel konnte nicht von %s geladen werden.
+Singles
+Evolution Data Server
+Kein Tipp verfügbar
+Paket- oder Quellpaketname konnten nicht bestimmt werden.
+Verbinde zu '%s' ...
+{0} kHz
+SpeedCrunch
+Untangle
+MD5-Summe in der Datei speichern
+Genre
+Kümmert sich um Ihre Ideen.
+Straßen und Gassen
+%B: Warnung: Ungültiger Symbolindex %ld in Zeilennummern
+%B%s%b könnte auf Version %B%s%b aktualisiert werden, wird aber auf Version %B%s%b gehalten.
+SMPlayer
+Visualisiert wissenschaftliche, technische und analytische Daten
+MIDI- und Audio-Sequenzer sowie Noten-Editor
+Buxon
+Wird als Nachfolger des MP3-Formats angesehen. AAC erreicht generell bessere Klangqualität als MP3 bei niedrigeren Bitraten.
+{0} MB / {1} MB ({2} KB/s)
+Linien zeichnen und deren Neigung bestimmen
+Bierrechner
+Pakete werden entfernt
+Betrachter für entfernte Bildschirme
+Ein grafisches diff-Programm
+ZustandLang
+%B: .got-Untersegment überschreitet 64K (Größe %d)
+Aktualisierung auflisten
+ist mindestens
+kann WAVE-Datei-Format 0x%04x nicht abspielen; ist weder PCM noch FLOAT
+Jajuk
+Jegliches Zeichen erwartet, aber Dateiende (EOF) erhalten.
+Erhielt %s aber nicht die gleiche Datei wie Attribute
+Laden des Zwischenspeichers
+Konnte die Datei »%s« nicht zum Lesen öffnen
+Tritium
+Quarry
+Profil
+Schreibfehler: %s
+KAlgebra
+xmskewb
+FreePOPs Updater
+Rechts
+gMFSK
+Bibliothek
+gesetzt: buffer_size = %lu
+Fehler: fp16-Formatdiskrepanz zwischen %B und %B
+Der Pfeil war vergiftet! Das Gift war tödlich ... --Mehr--
+Warnen, wenn eine privilegierte Aktion als nicht-root durchgeführt werden soll
+-m, --modify=acl Verändere die ACL(s) von Datei(en) -M, --modify-file=datei Lies die ACL-Einträge aus datei -x, --remove=acl Entferne Einträge aus ACLs von Datei(en) -X, --remove-file=datei Lies die ACL-Einträge aus datei -b, --remove-all Alle erweiterten ACL-Einträge entfernen -k, --remove-default Vorgabe-ACL entfernen
+Neues Fenster im _privaten Modus starten
+mono
+Mathematische Gleichungslösung und -zeichnung (Taschenformat)
+[Treffer]
+gxvattr
+Dienstname
+Wiederherstellung gescheitert : Keine Dateien ausgewählt.
+Ungültige Periodenanzahl %d
+download: Sie müssen mindestens ein Paket zum Herunterladen angeben.
+Es sind %ld ACL-Fehler während der Sicherung aufgetreten.
+Anzeige der Bedingungen, unter denen Sie Aptitude kopieren und weiterverteilen dürfen
+Dokumente
+Dateien in Ihrem Git Annex überwachen und abgleichen
+GNOME-Glättungswerkzeug für Audiodateien
+Die Wiederherstellung meldete einen nicht-schweren Fehler.
+%s-Betreuer ist %s und nicht %s.
+Eine Aktualisierung ist unnötig.
+Codecs zum Abspielen von MPEG-, DIVX-, MPEG4-, AC3-, WMV- und ASF-Dateien
+PyKaraoke
+Wurzelelement des Diagramms
+Kleiner und schneller Webkit-Browser
+%B(%s+0x%lx): unlösbare %s-Umwandlung gegen Symbol »%s«
+^Beenden
+GUI-Konfigurationswerkzeug Fcitx
+Betrachter für UIMA-Anmerkungen
+Tauschen Sie Blöcke, sodass sie passen
+Plattformspiel mit Rätselelementen
+%s Versionen
+JackEQ
+Ein schneller und sicherer Webbrowser
+%s wurde automatisch installiert.
+%s: %s: Ein Feldbezeicher wird zum Zuweisen eines assoziativen Arrays benötigt.
+Der Einstellungsdienst konnte nicht gefunden werden.
+Verschlüsselte Win32-Daten
+Barrierefreie Tabellenüberschrift
+%B: Möglichkeiten zur Verarbeitung des betriebssystemspezifischen Abschnitts »%s« nicht bekannt [0x%8x]
+oder
+GtkHash
+Archiv hat keinen Steuerungsdatensatz.
+%sB wurden in %s heruntergeladen (%sB/s).
+Zeigegeräte
+"TLS Key" Datei nicht für Director definiert "%s" in %s.
+NCBI Datenbanken in 3D betrachten
+Neverball
+Openbox-Konfigurationsverwaltung
+Wichtige Vorgänge laufen
+Optionen für Entwickler und zur Fehlerdiagnose
+Model Builder
+Diskette formatieren
+Toonloop-Live-Animationsprogramm

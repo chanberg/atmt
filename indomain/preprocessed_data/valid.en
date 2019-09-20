@@ -1,0 +1,500 @@
+all books installed on the device
+display and edit image files
+unknown basic type % d
+&amp; Help
+accelerator label
+Volume parameters
+Descent 1
+# Broken : % ld
+Klipper
+Snake4
+could not open WriteBootstrap file : % s : ERR = % s
+service Name :
+select a window to capture
+Enable and disable shell builtins . Enables and disables builtin shell commands . Disabling allows you to execute a disk command which has the same name as a shell builtin without using a full pathname . options : -a \ tprint a list of builtins showing whether or not each is enabled -n \ tdisable each NAME or display a list of disabled builtins -p \ tprint the list of builtins in a reusable format -s \ tprint only the names of Posix &apos; special &apos; builtins Options controlling dynamic loading : -f \ tLoad builtin NAME from shared object FILENAME -d \ tremove a builtin loaded with -f Without options , each NAME is enabled . to use the &apos; test &apos; found in $ PATH instead of the shell builtin version , type &apos; enable -n test &apos; . exit Status : returns success unless NAME is not a shell builtin or an error occurs .
+mia @-@ lmpick Version 0.2.10
+Ophcrack
+Translator @-@ credits
+Fourteen
+enhanced interactive Python shell
+skippedon
+gFTP
+could not fetch track information
+% s : undefined version : % s
+add directories to stack . adds a directory to the top of the directory stack , or rotates the stack , making the new top of the stack the current working directory . with no arguments , exchanges the top two directories . options : -n \ tSuppresses the normal change of directory when adding \ tdirectories to the stack , so only the stack is manipulated . arguments : + N \ tRotates the stack so that the Nth directory ( counting \ tfrom the left of the list shown by &apos; dirs &apos; , starting with \ tzero ) is at the top . -n \ tRotates the stack so that the Nth directory ( counting \ tfrom the right of the list shown by &apos; dirs &apos; , starting with \ tzero ) is at the top. dir \ tAdds DIR to the directory stack at the top , making it the \ tnew current working directory . the &apos; dirs &apos; builtin displays the directory stack . exit Status : returns success unless an invalid argument is supplied or the directory change fails .
+error : % B does not use Maverick instructions , whereas % B does
+expected a Migration Job Type keyword , got : % s
+Arpeggiator @-@ Sequencer @-@ LFO
+Eliminate the small playback gap on track change . useful for concept albums and classical music
+full @-@ text search program for Sylpheed
+% P : can &apos;t find branch stub &apos; % s&apos;
+get :
+invalid use duration specified : % s
+Barry Desktop Panel
+% B : SH _ link &#91; % d &#93; in section &apos; % A &apos; is incorrect
+QViaggiaTreno
+multiplayer @-@ only Clone of the first person shooter Doom
+downloads , past month :
+info
+missing
+undefined channel % d
+% s : cannot set default acl on &quot; % s &quot; : % s
+name % s length % d too long , max is % d
+% B ( % A ) : internal error : out of range error
+explore geometric Constructions
+import _ Media ...
+can &apos;t decode wide @-@ character string after &quot; % s &quot;
+override report &apos;s ExecutablePath
+the game has no solution . Undo or start again .
+Gwyddion
+set Readline key bindings and variables . bind a key sequence to a Readline function or a macro , or set a Readline variable . the non @-@ option argument syntax is equivalent to that found in ~ / .inputrc , but must be passed as a single argument : e.g. , bind &apos; &quot; \ \ C @-@ x \ \ C @-@ r &quot; : re @-@ read @-@ init @-@ file &apos; . options : -m keymap Use keymap as the keymap for the duration of this command . Acceptable keymap names are emacs , emacs @-@ standard , emacs @-@ meta , emacs @-@ ctlx , vi , vi @-@ move , vi @-@ command , and vi @-@ insert . -l List names of functions . -p List function names and bindings . -p List functions and bindings in a form that can be reused as input . -s List key sequences that invoke macros and their values -s List key sequences that invoke macros and their values in a form that can be reused as input . -v List variable names and values -v List variable names and values in a form that can be reused as input . -q function @-@ name Query about which keys invoke the named function . -u function @-@ name unbind all keys which are bound to the named function . -r keyseq Remove the binding for keyseq . -f filename Read key bindings from FILENAME . -x keyseq : shell @-@ command \ tCause SHELL @-@ COMMAND to be executed when \ t \ t \ t \ tKEYSEQ is entered . exit Status : bind returns 0 unless an unrecognized option is given or an error occurs .
+menu
+InstVer
+% s % s % s : % s ( error token is &quot; % s &quot; )
+predefined Smart Playlists
+unexpected EOF while looking for matching &apos; ) &apos;
+KNemo
+version :
+configure aptitude .
+delete Smart Playlist
+disk Usage Analyzer
+remove the five of diamonds .
+no Job found for JobId % s
+extra Graphics Applications
+four of diamonds
+Sixteen
+one Is enough
+slider
+-- &gt; Run = % s
+Jargon Informatique
+a simple music quiz game for GNU / Linux
+WxGeometrie
+tactical Game
+Undead
+name
+unpacking % s
+Media record for Volume &quot; % s &quot; not found .
+Examine the currently selected solution to the dependency problems .
+move ~ a onto an empty corner slot .
+do you want to continue &#91; Y / n &#93; ?
+complete the puzzle by matching numbered tiles
+Chemtool
+KAtomic
+graphical design of primers for PCR and sequencing
+get rid of those Wingdows viruses !
+Qsynth is a FluidSynth Qt GUI Interface
+profile % s : has merged rule % s with conflicting x modifiers
+lemon
+Note , selecting &apos; % s &apos; instead of &apos; % s&apos;
+_ Last.fm
+Collecting problem Information
+failed to fetch % s : % s
+Swift
+could not open database &quot; % s . &quot;
+cannot add Bacula key to System Registry
+unable to open % s to log actions
+Bluetooth Transfer
+error : basedir % s is not a directory , skipping .
+the selected key couldn &apos;t be removed . check that you provided a valid fingerprint .
+your request has multiple choices for &quot; % s . &quot; selection is not possible in batch mode .
+&#91; % s &#93; % s
+a 3 @-@ D game based on Rubik &apos;s cube
+syntax error : operand expected
++ + -- &gt; skipping , parent is not the selected version
+% B ( % s ) : warning : interworking not enabled. first occurrence : % B : ARM call to Thumb
+system Jobs
+the application Apport has stopped responding .
+clear Usage Data ...
+Firefox Launchpad plugin
+Miro Guide Podcast Directory
+8
+Laptop Mode Tools Configuration Tool
+% s : base @-@ plus @-@ offset relocation against register symbol : ( unknown ) in % s
+Completely stop playback
+Dopewars
+share mouse and pointer with other computers
+the method &quot; % what : 1 &quot; is unimplemented in &quot; % where : 2 . &quot;
+battle for survival
+service command length too long
+loading { 0 } - { 1 } of { 2 }
+graphical editor for PSTricks
+Pacemaker GUI
+display files in ESRF Data Format
+the display format for the status line
+custom
+clips
+total distinct versions :
+unable to remove &quot; % s &quot;
+a cleaning tool for GConf
+hierarchical notebook to enter and manage notes and ideas
+clone JobId % d started .
+touch Typing Tutor
+view keyboard layout
+% B ( % s ) : warning : interworking not enabled. first occurrence : % B : thumb call to ARM consider relinking with --support @-@ old @-@ code enabled
+library Watcher
+Creator
+GUI for various compressed file formats
+menu item
+Impose PDF documents to create booklets
+bpython
+redeals left : ~ a
+XDot
+value
+Flashcards Program
+qcomicbook
+after this operation , % sB of additional disk space will be used .
+_ Tools
+% sB of disk space will be used
+monitor for CPU , memory , disks , network , mail
+Xserver access restriction ( default : Direct )
+_ Genre :
+Malformed override % s line % llu # 2
+cannot connect to crash database , please check your Internet connection .
+hide the user interface
+open new window
+-- &gt; RunOnFailure = % u
+no longer used
+failed to resolve address &apos; % s &apos; : % s
+Malformed override % s line % llu # 3
+license GPLv3 + : GNU GPL version 3 or later &lt; http \ : \ / \ / gnu \ .org \ / licenses \ / gpl \ .html &gt;
+Satellite tracker
+bad section name &apos; % s &apos; ( use &apos; none &apos; , &apos; topdir &apos; , &apos; subdir &apos; , or &apos; subdirs &apos; )
+file Manager provided by Enlightenment
+a Wordpress blog client
+Clinica
+Colonize with bots
+warning : % s : % s
+could not set &quot; % s &quot; for % s
+subscribe
+% s set to automatically installed .
+select the first solution to the dependency problems .
+Exult Ultima 7 Engine
+Kamerka
+Okteta
+SimpleBurn
+% B ( % A ) : warning : unaligned access to symbol &apos; % s &apos; in the small data area
+move ~ a onto an empty right slot .
+clone of Scorched Earth
+LINGOT Is Not a Guitar @-@ Only Tuner
+filter to skip URL like constructs
+improved dynamic tiling window manager
+search forwards
+Icemon
+PCB @-@ Suite
+start Backup JobId % s , Job = % s
+the queen of diamonds
+Sony PlayStation emulator
+level bar
+% B : warning : allocated section &apos; % s &apos; not in segment
+Debian Documentation Browser
+Disconnecting { 0 } ...
+a totem plugin to watch streams from arte.tv
+Preparing to download changelogs
+% S * % N % s &#91; version % s &#93; % n
+RestoreFiles
+select Folder
+Frogr
+Tagua
+Folders
+% s : cannot link non @-@ FDPIC object file into FDPIC executable
+Odessa is a better game . really .
+young frog &apos;s adventure
+hit
+Ejecting { 0 } ...
+Piano game
+authorization problem : remote server requires TLS .
+Note Taker
+scroll pane
+aptitude failed to find a solution to these dependencies . you can solve them yourself by hand or type &apos; n &apos; to quit .
+a user name for PostgreSQL must be supplied .
+manage references and citations in your publications
+the former version % s of % s is already installed
+Photo collection creativity tool
+find what you &apos;re looking for on this computer by name or content using Tracker
+no packages found -- enter zero or more roots of the search followed by the package to justify .
+error writing state file
+artist Name
+PyBridge
+science packages browser
+a graphical shutdown utility
+non @-@ overlay size of 0x % v plus maximum overlay size of 0x % v exceeds local store
+system
+new Video CD Project
+create and edit electronics projects with xgsch2pcb
+chinese chess
+unable to set buffer size % lu for playback : % s
+Fyre
+video subtitling for the GNOME desktop
+error writing header to contents file
+MIDI controllable audio player
+compiler : G + + % s
+simple Text Editor
+invalid Slot number : % s
+create dictionary aliases
+-l , --list list current connections of each port
+cannot create report
+Lunch
+could not create sink element
+update finished downloading
+use a variable Bitrate
+tool tip
+off
+downloading eMusic Track ( s )
+search eMusic
+generator for math worksheets for French college
+new Game
+qrq
+incremental
+a graphical user interface for the Argyll CMS display calibration utilities
+kernel Panic
+replacements list file name
+Pumpa
+invalid safety level &quot; % s &quot; ( not &quot; discard , &quot; &quot; maximum , &quot; &quot; minimum , &quot; or an integer ) .
+kps
+quick Note from Clipboard
+clear
+help and Documentation
+Recently Played
+view and manipulate atomic and other chemical systems
+Universal Library
+Unicode normalization form : none , nfd , nfc , comp
+dependencies
+select NAME &#91; in WORDS ... ; &#93; do COMMANDS ; done
+% B % s % b will be installed .
+Günther &apos;s rss Reader
+ProFTPD FTP server administration
+Destroy enemy bases in space
+try moving a card to the reserve
+Lynis auditing tool
+warning : -c option may not work as you expect
+Copyright ( C ) 2005 Christian Masopust written by Christian Masopust ( 2005 ) Version :
+available upgrades :
+location of the main word list
+a low @-@ latency , high quality voice chat program for gaming
+\ \ % B : warning : ARM BLX instruction targets ARM function &apos; % s &apos; .
+5
+resolve the host name of the selected service automatically before Returning
+playing Creative Labs channel file &apos; % s &apos; ...
+e : errors apply to file
+open Yahtzee
+stopped ( tty input )
+Integrated Python Development Environment
+Xournal
+could not create BPM detection driver .
+deprecated : please use --safe @-@ upgrade
+rlvm
+Navit
+configure the system default alternatives
+Instant Messenger
+Vorbis comment editor
+Uploading problem information
+take Vector screenshot
+audio file player with time stretch
+bad number of arguments
+W : unable to read directory % s
+remove the ace of diamonds .
+track Properties
+see man page for details .
+disc #
+description signature of % s
+select all tracks
+jack Keyboard
+error getting Job record for Job report : ERR = % s
+sync Preferences
+lierolibre
+Qt 4 Designer
+no similar artists found
+exec qualifier &apos; i &apos; invalid , conflicting qualifier already specified
+recommends
+a subtitle editor based on Gstreamer and Gtk +
+% B : relocation % s against STT _ GNU _ IFUNC symbol &apos; % s &apos; isn &apos;t handled by % s
+( not found )
+user signal 2
+AppArmor Desktop Preferences
+fix Music Metadata ...
+unknown command error
+% lu upgraded , % lu newly installed ,
+Abe &apos;s Amazing adventure
+Unity Tweak Tool
+negative numbers not permitted
+Imagination
+could not show preferences
+Anthy Dictionary editor
+a memory enhancement game
+_ Card style
+removing user tag &quot; % s &quot; from the package &quot; % s . &quot;
+PrBoom +
+Dreamchess
+unknown version selection , something is very wrong .
+failed . Restarting stream .
+fv FITS Editor
+Giant
+the key &quot; % key : 1 &quot; is not a list .
+Detecting BPM
+packages :
+gravity Wars
+Spider Three Decks
+the value &quot; % value : 2 &quot; is not % accepted : 3 and is thus invalid for the key &quot; % key : 1 . &quot;
+Gscriptor
+pthread _ mutex _ init : ERR = % s
+&apos;p &apos; : the package will be purged in addition to being removed .
+invalid entry in keybinding group : &quot; % s &quot;
+7zip compression / uncompression tool
+not installed ( configuration files remain )
+the maximum cost value was exceeded .
+invalid option : % s
+Characterise lens distortion
+missing hex digit for \ \ x
+* None *
+Tickr - Feed Reader
+all @-@ packages
+aconnect -i _ BAR _ -o &#91; -options &#93;
+language Support
+dangerous relocation
+Gtk-- version % d . % d . % d
+Blam Feed Reader
+resolve Service
+a Subversion client for KDE
+GTimer
+Show Details
+% s : restricted : cannot redirect output
+Debian Package Viewer
+but % s is to be installed
++ + -- &gt; skipping , not relevant according to params
+Gwenview
+statistics of games played
+Bomberclone
+Gnomad 2
+Steadyflow Download Manager
+_ reset
+perform arithmetic , scientific or financial calculations
+extract cursors and icons from MS Windows compatible resource files
+-d , --default display the default access control list
+% s is a virtual package provided by :
+edit course prerequisite charts
+widgets for your desktop
+create missing root / affix combinations
+movies
+invalid record key
+source code coverage browser
+&lt; filed : bad attributes , expected 3 fields got % d msglen = % d msg = % s
+ip2k linker : redundant page instruction at 0x % 08lx ( dest = 0x % 08lx ) .
+Toggle the display of version numbers
+Wolf4SDL
+CPU = HC11 &#93;
+the Ur @-@ Quan Masters
+% s : could not write out sorted .cranges entries
+Catch the Bombs
+XBMC Media Center
+too many objects
+Docky
+expected a number after -q =
+move a card or build of cards on to the empty slot
+Monte Carlo
+usage : % s &#91; - % s &#93; file ...
+Hexter
+Sponc
+open Book
+Progressive Rounds
+Jaaa ( with ALSA support )
+could not load game from % s
+Singles
+evolution Data Server
+no hint available
+could not determine the package or source package name .
+connecting to &apos; % s &apos; ...
+{ 0 } kHz
+SpeedCrunch
+Untangle
+store MD5 sum in the file
+Genre
+taking care of your ideas .
+Streets And Alleys
+% B : warning : illegal symbol index % ld in line numbers
+% B % s % b could be upgraded to version % B % s % b , but it is being held at version % B % s % b .
+SMPlayer
+Visualize scientific , engineering and analytical data
+MIDI and Audio Sequencer and notation Editor
+Buxon
+designed to be the successor of the MP3 format , aac generally achieves better sound quality than MP3 at many bit rates .
+{ 0 } MB / { 1 } MB ( { 2 } KB / s )
+Draw a diagonal line and choose which way each line slants
+Beer calculator
+removing packages
+remote Viewer
+a graphical Diff program
+LongState
+% B : .got subsegment exceeds 64K ( size % d )
+list Update
+at least
+can &apos;t play WAVE @-@ file format 0x % 04X which is not PCM or float encoded
+Jajuk
+expected any character , but got EOF .
+got % s but not same File as attributes
+loading cache
+could not open the file &quot; % s &quot; for reading
+Tritium
+Quarry
+profile
+write error : % s
+KAlgebra
+xmskewb
+FreePOPs Updater
+right
+gMFSK
+library
+was set buffer _ size = % lu
+error : fp16 format mismatch between % B and % B
+the dart was poisoned ! the poison was deadly ... --More--
+warn when attempting to perform a privileged action as a non @-@ root user
+-m , --modify = acl modify the current ACL ( s ) of file ( s ) -M , --modify @-@ file = file read ACL entries to modify from file -x , --remove = acl remove entries from the ACL ( s ) of file ( s ) -X , --remove @-@ file = file read ACL entries to remove from file -b , --remove @-@ all remove all extended ACL entries -k , --remove @-@ default remove the default ACL
+new P _ rivate browsing Window
+mono
+Pocket Math Expression Solver and Plotter
+&#91; hit &#93;
+gxvattr
+service Name
+restore failed : no file selected .
+invalid number of periods % d
+download : you must specify at least one package to download
+encountered % ld acl errors while doing backup
+view the terms under which you may copy and distribute aptitude
+documents
+track and sync the files in your Git Annex
+GNOME WAVE Cleaner
+restore job reported a non @-@ fatal error .
+% s maintainer is % s not % s
+there isn &apos;t any need for an update .
+Codecs to play mpeg , divx , mpeg4 , ac3 , wmv and asf files
+PyKaraoke
+Chart root node
+small and fast webkit browser
+% B ( % s + 0x % lx ) : unresolvable % s relocation against symbol &apos; % s&apos;
+^ Quit
+Fcitx GUI Config Tool
+UIMA annotation Viewer
+switch blocks so they match
+platform game with some puzzle elements
+% s versions
+JackEQ
+a fast and secure web browser
+% s was installed automatically .
+% s : % s : must use subscript when assigning associative array
+the preferences service could not be found .
+Encrypted Win32 data
+accessible Table Caption
+% B : don &apos;t know how to handle OS specific section &apos; % s &apos; &#91; 0x % 8x &#93;
+or
+GtkHash
+archive has no control record
+downloaded % sB in % s ( % sB / s ) .
+Pointing devices
+&quot; TLS Key &quot; file not defined for Director &quot; % s &quot; in % s .
+view NCBI databases in 3D
+Neverball
+Openbox Configuration Manager
+important tasks are running
+debugging and Development Options
+model Builder
+floppy Formatter
+Toonloop Live Animation Editor
