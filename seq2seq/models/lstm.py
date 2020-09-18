@@ -55,10 +55,11 @@ class LSTMModel(Seq2SeqModel):
                               embed_dim=args.encoder_embed_dim,
                               hidden_size=args.encoder_hidden_size,
                               num_layers=args.encoder_num_layers,
-                              bidirectional=args.encoder_bidirectional,
+                              bidirectional=bool(args.encoder_bidirectional),
                               dropout_in=args.encoder_dropout_in,
                               dropout_out=args.encoder_dropout_out,
-                              pretrained_embedding=encoder_pretrained_embedding)
+                              pretrained_embedding=encoder_pretrained_embedding,
+                              is_cuda=args.cuda)
 
         # Construct the decoder
         decoder = LSTMDecoder(dictionary=tgt_dict,
@@ -69,7 +70,9 @@ class LSTMModel(Seq2SeqModel):
                               dropout_out=args.decoder_dropout_out,
                               pretrained_embedding=decoder_pretrained_embedding,
                               use_attention=bool(eval(args.decoder_use_attention)),
-                              use_lexical_model=bool(eval(args.decoder_use_lexical_model)))
+                              use_lexical_model=bool(eval(args.decoder_use_lexical_model)),
+                              is_cuda=args.cuda)
+
         return cls(encoder, decoder)
 
 
@@ -84,7 +87,8 @@ class LSTMEncoder(Seq2SeqEncoder):
                  bidirectional=True,
                  dropout_in=0.25,
                  dropout_out=0.25,
-                 pretrained_embedding=None):
+                 pretrained_embedding=None,
+                 is_cuda=False):
 
         super().__init__(dictionary)
 
@@ -93,6 +97,7 @@ class LSTMEncoder(Seq2SeqEncoder):
         self.bidirectional = bidirectional
         self.hidden_size = hidden_size
         self.output_dim = 2 * hidden_size if bidirectional else hidden_size
+        self.is_cuda = is_cuda
 
         if pretrained_embedding is not None:
             self.embedding = pretrained_embedding
@@ -110,6 +115,8 @@ class LSTMEncoder(Seq2SeqEncoder):
         """ Performs a single forward pass through the instantiated encoder sub-network. """
         # Embed tokens and apply dropout
         batch_size, src_time_steps = src_tokens.size()
+        if self.is_cuda:
+            src_tokens =  utils.move_to_cuda(src_tokens)
         src_embeddings = self.embedding(src_tokens)
         _src_embeddings = F.dropout(src_embeddings, p=self.dropout_in, training=self.training)
 
@@ -188,7 +195,8 @@ class LSTMDecoder(Seq2SeqDecoder):
                  dropout_out=0.25,
                  pretrained_embedding=None,
                  use_attention=True,
-                 use_lexical_model=False):
+                 use_lexical_model=False,
+                 is_cuda=False):
 
         super().__init__(dictionary)
 
@@ -196,6 +204,7 @@ class LSTMDecoder(Seq2SeqDecoder):
         self.dropout_out = dropout_out
         self.embed_dim = embed_dim
         self.hidden_size = hidden_size
+        self.is_cuda = is_cuda
 
         if pretrained_embedding is not None:
             self.embedding = pretrained_embedding
@@ -234,6 +243,8 @@ class LSTMDecoder(Seq2SeqDecoder):
 
         # Embed target tokens and apply dropout
         batch_size, tgt_time_steps = tgt_inputs.size()
+        if self.is_cuda:
+            tgt_inputs = utils.move_to_cuda(tgt_inputs)
         tgt_embeddings = self.embedding(tgt_inputs)
         tgt_embeddings = F.dropout(tgt_embeddings, p=self.dropout_in, training=self.training)
 
@@ -247,6 +258,9 @@ class LSTMDecoder(Seq2SeqDecoder):
         else:
             tgt_hidden_states = [torch.zeros(tgt_inputs.size()[0], self.hidden_size) for i in range(len(self.layers))]
             tgt_cell_states = [torch.zeros(tgt_inputs.size()[0], self.hidden_size) for i in range(len(self.layers))]
+            if self.is_cuda:
+                tgt_hidden_states = utils.move_to_cuda(tgt_hidden_states)
+                tgt_cell_states = utils.move_to_cuda(tgt_cell_states)
             input_feed = tgt_embeddings.data.new(batch_size, self.hidden_size).zero_()
 
         # Initialize attention output node

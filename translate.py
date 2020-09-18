@@ -72,6 +72,8 @@ def main(args):
             encoder_out = model.encoder(sample['src_tokens'], sample['src_lengths'])
             go_slice = \
                 torch.ones(sample['src_tokens'].shape[0], 1).fill_(tgt_dict.eos_idx).type_as(sample['src_tokens'])
+            if args.cuda:
+                go_slice = utils.move_to_cuda(go_slice)
             prev_words = go_slice
             next_words = None
 
@@ -87,7 +89,7 @@ def main(args):
             prev_words = torch.cat([go_slice, next_words], dim=1)
 
         # Segment into sentences
-        decoded_batch = next_words.numpy()
+        decoded_batch = next_words.cpu().numpy()
         output_sentences = [decoded_batch[row, :] for row in range(decoded_batch.shape[0])]
         assert(len(output_sentences) == len(sample['id'].data))
 
