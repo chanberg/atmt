@@ -1,500 +1,500 @@
-all books installed on the device
-display and edit image files
-unknown basic type % d
-&amp; Help
-accelerator label
-Volume parameters
-Descent 1
-# Broken : % ld
-Klipper
-Snake4
-could not open WriteBootstrap file : % s : ERR = % s
-service Name :
-select a window to capture
-Enable and disable shell builtins . Enables and disables builtin shell commands . Disabling allows you to execute a disk command which has the same name as a shell builtin without using a full pathname . options : -a \ tprint a list of builtins showing whether or not each is enabled -n \ tdisable each NAME or display a list of disabled builtins -p \ tprint the list of builtins in a reusable format -s \ tprint only the names of Posix &apos; special &apos; builtins Options controlling dynamic loading : -f \ tLoad builtin NAME from shared object FILENAME -d \ tremove a builtin loaded with -f Without options , each NAME is enabled . to use the &apos; test &apos; found in $ PATH instead of the shell builtin version , type &apos; enable -n test &apos; . exit Status : returns success unless NAME is not a shell builtin or an error occurs .
-mia @-@ lmpick Version 0.2.10
-Ophcrack
-Translator @-@ credits
-Fourteen
-enhanced interactive Python shell
-skippedon
-gFTP
-could not fetch track information
-% s : undefined version : % s
-add directories to stack . adds a directory to the top of the directory stack , or rotates the stack , making the new top of the stack the current working directory . with no arguments , exchanges the top two directories . options : -n \ tSuppresses the normal change of directory when adding \ tdirectories to the stack , so only the stack is manipulated . arguments : + N \ tRotates the stack so that the Nth directory ( counting \ tfrom the left of the list shown by &apos; dirs &apos; , starting with \ tzero ) is at the top . -n \ tRotates the stack so that the Nth directory ( counting \ tfrom the right of the list shown by &apos; dirs &apos; , starting with \ tzero ) is at the top. dir \ tAdds DIR to the directory stack at the top , making it the \ tnew current working directory . the &apos; dirs &apos; builtin displays the directory stack . exit Status : returns success unless an invalid argument is supplied or the directory change fails .
-error : % B does not use Maverick instructions , whereas % B does
-expected a Migration Job Type keyword , got : % s
-Arpeggiator @-@ Sequencer @-@ LFO
-Eliminate the small playback gap on track change . useful for concept albums and classical music
-full @-@ text search program for Sylpheed
-% P : can &apos;t find branch stub &apos; % s&apos;
-get :
-invalid use duration specified : % s
-Barry Desktop Panel
-% B : SH _ link &#91; % d &#93; in section &apos; % A &apos; is incorrect
-QViaggiaTreno
-multiplayer @-@ only Clone of the first person shooter Doom
-downloads , past month :
-info
-missing
-undefined channel % d
-% s : cannot set default acl on &quot; % s &quot; : % s
-name % s length % d too long , max is % d
-% B ( % A ) : internal error : out of range error
-explore geometric Constructions
-import _ Media ...
-can &apos;t decode wide @-@ character string after &quot; % s &quot;
-override report &apos;s ExecutablePath
-the game has no solution . Undo or start again .
-Gwyddion
-set Readline key bindings and variables . bind a key sequence to a Readline function or a macro , or set a Readline variable . the non @-@ option argument syntax is equivalent to that found in ~ / .inputrc , but must be passed as a single argument : e.g. , bind &apos; &quot; \ \ C @-@ x \ \ C @-@ r &quot; : re @-@ read @-@ init @-@ file &apos; . options : -m keymap Use keymap as the keymap for the duration of this command . Acceptable keymap names are emacs , emacs @-@ standard , emacs @-@ meta , emacs @-@ ctlx , vi , vi @-@ move , vi @-@ command , and vi @-@ insert . -l List names of functions . -p List function names and bindings . -p List functions and bindings in a form that can be reused as input . -s List key sequences that invoke macros and their values -s List key sequences that invoke macros and their values in a form that can be reused as input . -v List variable names and values -v List variable names and values in a form that can be reused as input . -q function @-@ name Query about which keys invoke the named function . -u function @-@ name unbind all keys which are bound to the named function . -r keyseq Remove the binding for keyseq . -f filename Read key bindings from FILENAME . -x keyseq : shell @-@ command \ tCause SHELL @-@ COMMAND to be executed when \ t \ t \ t \ tKEYSEQ is entered . exit Status : bind returns 0 unless an unrecognized option is given or an error occurs .
-menu
-InstVer
-% s % s % s : % s ( error token is &quot; % s &quot; )
-predefined Smart Playlists
-unexpected EOF while looking for matching &apos; ) &apos;
-KNemo
-version :
-configure aptitude .
-delete Smart Playlist
-disk Usage Analyzer
-remove the five of diamonds .
-no Job found for JobId % s
-extra Graphics Applications
-four of diamonds
-Sixteen
-one Is enough
-slider
--- &gt; Run = % s
-Jargon Informatique
-a simple music quiz game for GNU / Linux
-WxGeometrie
-tactical Game
-Undead
-name
-unpacking % s
-Media record for Volume &quot; % s &quot; not found .
-Examine the currently selected solution to the dependency problems .
-move ~ a onto an empty corner slot .
-do you want to continue &#91; Y / n &#93; ?
-complete the puzzle by matching numbered tiles
-Chemtool
-KAtomic
-graphical design of primers for PCR and sequencing
-get rid of those Wingdows viruses !
-Qsynth is a FluidSynth Qt GUI Interface
-profile % s : has merged rule % s with conflicting x modifiers
-lemon
-Note , selecting &apos; % s &apos; instead of &apos; % s&apos;
-_ Last.fm
-Collecting problem Information
-failed to fetch % s : % s
-Swift
-could not open database &quot; % s . &quot;
-cannot add Bacula key to System Registry
-unable to open % s to log actions
-Bluetooth Transfer
-error : basedir % s is not a directory , skipping .
-the selected key couldn &apos;t be removed . check that you provided a valid fingerprint .
-your request has multiple choices for &quot; % s . &quot; selection is not possible in batch mode .
-&#91; % s &#93; % s
-a 3 @-@ D game based on Rubik &apos;s cube
-syntax error : operand expected
-+ + -- &gt; skipping , parent is not the selected version
-% B ( % s ) : warning : interworking not enabled. first occurrence : % B : ARM call to Thumb
-system Jobs
-the application Apport has stopped responding .
-clear Usage Data ...
-Firefox Launchpad plugin
-Miro Guide Podcast Directory
-8
-Laptop Mode Tools Configuration Tool
-% s : base @-@ plus @-@ offset relocation against register symbol : ( unknown ) in % s
-Completely stop playback
-Dopewars
-share mouse and pointer with other computers
-the method &quot; % what : 1 &quot; is unimplemented in &quot; % where : 2 . &quot;
-battle for survival
-service command length too long
-loading { 0 } - { 1 } of { 2 }
-graphical editor for PSTricks
-Pacemaker GUI
-display files in ESRF Data Format
-the display format for the status line
-custom
-clips
-total distinct versions :
-unable to remove &quot; % s &quot;
-a cleaning tool for GConf
-hierarchical notebook to enter and manage notes and ideas
-clone JobId % d started .
-touch Typing Tutor
-view keyboard layout
-% B ( % s ) : warning : interworking not enabled. first occurrence : % B : thumb call to ARM consider relinking with --support @-@ old @-@ code enabled
-library Watcher
-Creator
-GUI for various compressed file formats
-menu item
-Impose PDF documents to create booklets
-bpython
-redeals left : ~ a
-XDot
-value
-Flashcards Program
-qcomicbook
-after this operation , % sB of additional disk space will be used .
-_ Tools
-% sB of disk space will be used
-monitor for CPU , memory , disks , network , mail
-Xserver access restriction ( default : Direct )
-_ Genre :
-Malformed override % s line % llu # 2
-cannot connect to crash database , please check your Internet connection .
-hide the user interface
-open new window
--- &gt; RunOnFailure = % u
-no longer used
-failed to resolve address &apos; % s &apos; : % s
-Malformed override % s line % llu # 3
-license GPLv3 + : GNU GPL version 3 or later &lt; http \ : \ / \ / gnu \ .org \ / licenses \ / gpl \ .html &gt;
-Satellite tracker
-bad section name &apos; % s &apos; ( use &apos; none &apos; , &apos; topdir &apos; , &apos; subdir &apos; , or &apos; subdirs &apos; )
-file Manager provided by Enlightenment
-a Wordpress blog client
-Clinica
-Colonize with bots
-warning : % s : % s
-could not set &quot; % s &quot; for % s
-subscribe
-% s set to automatically installed .
-select the first solution to the dependency problems .
-Exult Ultima 7 Engine
-Kamerka
-Okteta
-SimpleBurn
-% B ( % A ) : warning : unaligned access to symbol &apos; % s &apos; in the small data area
-move ~ a onto an empty right slot .
-clone of Scorched Earth
-LINGOT Is Not a Guitar @-@ Only Tuner
-filter to skip URL like constructs
-improved dynamic tiling window manager
-search forwards
-Icemon
-PCB @-@ Suite
-start Backup JobId % s , Job = % s
-the queen of diamonds
-Sony PlayStation emulator
-level bar
-% B : warning : allocated section &apos; % s &apos; not in segment
-Debian Documentation Browser
-Disconnecting { 0 } ...
-a totem plugin to watch streams from arte.tv
-Preparing to download changelogs
-% S * % N % s &#91; version % s &#93; % n
-RestoreFiles
-select Folder
-Frogr
-Tagua
-Folders
-% s : cannot link non @-@ FDPIC object file into FDPIC executable
-Odessa is a better game . really .
-young frog &apos;s adventure
-hit
-Ejecting { 0 } ...
-Piano game
-authorization problem : remote server requires TLS .
-Note Taker
-scroll pane
-aptitude failed to find a solution to these dependencies . you can solve them yourself by hand or type &apos; n &apos; to quit .
-a user name for PostgreSQL must be supplied .
-manage references and citations in your publications
-the former version % s of % s is already installed
-Photo collection creativity tool
-find what you &apos;re looking for on this computer by name or content using Tracker
-no packages found -- enter zero or more roots of the search followed by the package to justify .
-error writing state file
-artist Name
-PyBridge
-science packages browser
-a graphical shutdown utility
-non @-@ overlay size of 0x % v plus maximum overlay size of 0x % v exceeds local store
-system
-new Video CD Project
-create and edit electronics projects with xgsch2pcb
-chinese chess
-unable to set buffer size % lu for playback : % s
-Fyre
-video subtitling for the GNOME desktop
-error writing header to contents file
-MIDI controllable audio player
-compiler : G + + % s
-simple Text Editor
-invalid Slot number : % s
-create dictionary aliases
--l , --list list current connections of each port
-cannot create report
-Lunch
-could not create sink element
-update finished downloading
-use a variable Bitrate
-tool tip
-off
-downloading eMusic Track ( s )
-search eMusic
-generator for math worksheets for French college
-new Game
-qrq
-incremental
-a graphical user interface for the Argyll CMS display calibration utilities
-kernel Panic
-replacements list file name
-Pumpa
-invalid safety level &quot; % s &quot; ( not &quot; discard , &quot; &quot; maximum , &quot; &quot; minimum , &quot; or an integer ) .
-kps
-quick Note from Clipboard
-clear
-help and Documentation
-Recently Played
-view and manipulate atomic and other chemical systems
-Universal Library
-Unicode normalization form : none , nfd , nfc , comp
-dependencies
-select NAME &#91; in WORDS ... ; &#93; do COMMANDS ; done
-% B % s % b will be installed .
-Günther &apos;s rss Reader
-ProFTPD FTP server administration
-Destroy enemy bases in space
-try moving a card to the reserve
-Lynis auditing tool
-warning : -c option may not work as you expect
-Copyright ( C ) 2005 Christian Masopust written by Christian Masopust ( 2005 ) Version :
-available upgrades :
-location of the main word list
-a low @-@ latency , high quality voice chat program for gaming
-\ \ % B : warning : ARM BLX instruction targets ARM function &apos; % s &apos; .
-5
-resolve the host name of the selected service automatically before Returning
-playing Creative Labs channel file &apos; % s &apos; ...
-e : errors apply to file
-open Yahtzee
-stopped ( tty input )
-Integrated Python Development Environment
-Xournal
-could not create BPM detection driver .
-deprecated : please use --safe @-@ upgrade
-rlvm
-Navit
-configure the system default alternatives
-Instant Messenger
-Vorbis comment editor
-Uploading problem information
-take Vector screenshot
-audio file player with time stretch
-bad number of arguments
-W : unable to read directory % s
-remove the ace of diamonds .
-track Properties
-see man page for details .
-disc #
-description signature of % s
-select all tracks
-jack Keyboard
-error getting Job record for Job report : ERR = % s
-sync Preferences
-lierolibre
-Qt 4 Designer
-no similar artists found
-exec qualifier &apos; i &apos; invalid , conflicting qualifier already specified
-recommends
-a subtitle editor based on Gstreamer and Gtk +
-% B : relocation % s against STT _ GNU _ IFUNC symbol &apos; % s &apos; isn &apos;t handled by % s
-( not found )
-user signal 2
-AppArmor Desktop Preferences
-fix Music Metadata ...
-unknown command error
-% lu upgraded , % lu newly installed ,
-Abe &apos;s Amazing adventure
-Unity Tweak Tool
-negative numbers not permitted
-Imagination
-could not show preferences
-Anthy Dictionary editor
-a memory enhancement game
-_ Card style
-removing user tag &quot; % s &quot; from the package &quot; % s . &quot;
-PrBoom +
-Dreamchess
-unknown version selection , something is very wrong .
-failed . Restarting stream .
-fv FITS Editor
-Giant
-the key &quot; % key : 1 &quot; is not a list .
-Detecting BPM
-packages :
-gravity Wars
-Spider Three Decks
-the value &quot; % value : 2 &quot; is not % accepted : 3 and is thus invalid for the key &quot; % key : 1 . &quot;
-Gscriptor
-pthread _ mutex _ init : ERR = % s
-&apos;p &apos; : the package will be purged in addition to being removed .
-invalid entry in keybinding group : &quot; % s &quot;
-7zip compression / uncompression tool
-not installed ( configuration files remain )
-the maximum cost value was exceeded .
-invalid option : % s
-Characterise lens distortion
-missing hex digit for \ \ x
-* None *
-Tickr - Feed Reader
-all @-@ packages
-aconnect -i _ BAR _ -o &#91; -options &#93;
-language Support
-dangerous relocation
-Gtk-- version % d . % d . % d
-Blam Feed Reader
-resolve Service
-a Subversion client for KDE
-GTimer
-Show Details
-% s : restricted : cannot redirect output
-Debian Package Viewer
-but % s is to be installed
-+ + -- &gt; skipping , not relevant according to params
-Gwenview
-statistics of games played
-Bomberclone
-Gnomad 2
-Steadyflow Download Manager
-_ reset
-perform arithmetic , scientific or financial calculations
-extract cursors and icons from MS Windows compatible resource files
--d , --default display the default access control list
-% s is a virtual package provided by :
-edit course prerequisite charts
-widgets for your desktop
-create missing root / affix combinations
-movies
-invalid record key
-source code coverage browser
-&lt; filed : bad attributes , expected 3 fields got % d msglen = % d msg = % s
-ip2k linker : redundant page instruction at 0x % 08lx ( dest = 0x % 08lx ) .
-Toggle the display of version numbers
-Wolf4SDL
-CPU = HC11 &#93;
-the Ur @-@ Quan Masters
-% s : could not write out sorted .cranges entries
-Catch the Bombs
-XBMC Media Center
-too many objects
-Docky
-expected a number after -q =
-move a card or build of cards on to the empty slot
-Monte Carlo
-usage : % s &#91; - % s &#93; file ...
-Hexter
-Sponc
-open Book
-Progressive Rounds
-Jaaa ( with ALSA support )
-could not load game from % s
-Singles
-evolution Data Server
-no hint available
-could not determine the package or source package name .
-connecting to &apos; % s &apos; ...
-{ 0 } kHz
-SpeedCrunch
-Untangle
-store MD5 sum in the file
-Genre
-taking care of your ideas .
-Streets And Alleys
-% B : warning : illegal symbol index % ld in line numbers
-% B % s % b could be upgraded to version % B % s % b , but it is being held at version % B % s % b .
-SMPlayer
-Visualize scientific , engineering and analytical data
-MIDI and Audio Sequencer and notation Editor
-Buxon
-designed to be the successor of the MP3 format , aac generally achieves better sound quality than MP3 at many bit rates .
-{ 0 } MB / { 1 } MB ( { 2 } KB / s )
-Draw a diagonal line and choose which way each line slants
-Beer calculator
-removing packages
-remote Viewer
-a graphical Diff program
-LongState
-% B : .got subsegment exceeds 64K ( size % d )
-list Update
-at least
-can &apos;t play WAVE @-@ file format 0x % 04X which is not PCM or float encoded
-Jajuk
-expected any character , but got EOF .
-got % s but not same File as attributes
-loading cache
-could not open the file &quot; % s &quot; for reading
-Tritium
-Quarry
-profile
-write error : % s
-KAlgebra
-xmskewb
-FreePOPs Updater
-right
-gMFSK
-library
-was set buffer _ size = % lu
-error : fp16 format mismatch between % B and % B
-the dart was poisoned ! the poison was deadly ... --More--
-warn when attempting to perform a privileged action as a non @-@ root user
--m , --modify = acl modify the current ACL ( s ) of file ( s ) -M , --modify @-@ file = file read ACL entries to modify from file -x , --remove = acl remove entries from the ACL ( s ) of file ( s ) -X , --remove @-@ file = file read ACL entries to remove from file -b , --remove @-@ all remove all extended ACL entries -k , --remove @-@ default remove the default ACL
-new P _ rivate browsing Window
-mono
-Pocket Math Expression Solver and Plotter
-&#91; hit &#93;
-gxvattr
-service Name
-restore failed : no file selected .
-invalid number of periods % d
-download : you must specify at least one package to download
-encountered % ld acl errors while doing backup
-view the terms under which you may copy and distribute aptitude
-documents
-track and sync the files in your Git Annex
-GNOME WAVE Cleaner
-restore job reported a non @-@ fatal error .
-% s maintainer is % s not % s
-there isn &apos;t any need for an update .
-Codecs to play mpeg , divx , mpeg4 , ac3 , wmv and asf files
-PyKaraoke
-Chart root node
-small and fast webkit browser
-% B ( % s + 0x % lx ) : unresolvable % s relocation against symbol &apos; % s&apos;
-^ Quit
-Fcitx GUI Config Tool
-UIMA annotation Viewer
-switch blocks so they match
-platform game with some puzzle elements
-% s versions
-JackEQ
-a fast and secure web browser
-% s was installed automatically .
-% s : % s : must use subscript when assigning associative array
-the preferences service could not be found .
-Encrypted Win32 data
-accessible Table Caption
-% B : don &apos;t know how to handle OS specific section &apos; % s &apos; &#91; 0x % 8x &#93;
-or
-GtkHash
-archive has no control record
-downloaded % sB in % s ( % sB / s ) .
-Pointing devices
-&quot; TLS Key &quot; file not defined for Director &quot; % s &quot; in % s .
-view NCBI databases in 3D
-Neverball
-Openbox Configuration Manager
-important tasks are running
-debugging and Development Options
-model Builder
-floppy Formatter
-Toonloop Live Animation Editor
+when an employee &apos;s contract of employment expires they are entitled to a written testimonial of service from their employer .
+municipal interpreting centres
+a double last name will show both of your last names , such as Virtanen @-@ Smith .
+moving servicesFinnish _ Swedish _ English
+Vantaa has a lot of hiking paths and nature trails .
+search for information about Finnish social security and benefits
+Oulaskangas hospital
+the application period is in January , but you can also submit applications at other times if your family moves to Vantaa in the middle of the year , for example .
+what is a family ? contains information on families of same @-@ sex couples .
+when applying for the permit , your fingerprints will be taken for a biometric residence permit card .
+the Tax Office has a service point in the centre of Helsinki .
+there are bus connections from the village of Revonlahti to the City of Oulu and the town of Raahe , from the village of Paavola to Oulu and the town of Ylivieska , and from the village of Siikajoenkylä to Oulu and Raahe .
+for further information on native language education , contact the education office ( koulutoimisto ) .
+the wars caused Finland to lose areas to the Soviet Union .
+information on consulate servicesFinnish _ Swedish _ English
+the h Clinic also has units in the health stations of Tikkurila and Myyrmäki .
+information on apprenticeship trainingFinnish
+in divorce situations , property is usually divided equally among both spouses .
+basic educationFinnish _ English
+log in using your bank identifiers or a mobile certificate .
+marriages between two persons of the same sex are also allowed in Finland .
+sometimes these schools are private schools .
+even if you have no pain or other symptoms , it is important to take regular dental checkups .
+City @-@ owned rental homes
+basic education
+the Emergency Youth Shelter of the Finnish Red Cross ( Suomen Punaisen Ristin Nuorten turvatalo ) helps and supports 12 @-@ 19 @-@ year @-@ olds in crisis situations .
+a common @-@ law husband and wife have no maintenance liability to each other
+the nature House Villa Elfvik hosts excursions , events and exhibitions . the nature
+the shelter is open from 5 pm to 10 am ; the helpline is always open .
+if you want , you can also invite a support person for your appointments .
+the language , culture and economy of Finland developed greatly during the period under Russian rule .
+check at the student affairs office ( opintotoimisto ) of the desired university whether or not your qualification will enable you to apply .
+you can contact Victim Support Finland by telephone or chat or visit a local service point .
+read more on the InfoFinland page Can I lose my residence permit ?
+Nuppi can help with mental health and substance abuse problems , for example .
+please note that the person entering the video into the competition is responsible for making sure that the video , or any part of it , is not in violation of third party copyrights , trademark rights or other immaterial rights .
+it is also possible for both parents to take partial child care leave , for example , so that one works in the morning and the other in the afternoon .
+Northern Finland Tax Office , Raahe service point :
+value added tax
+helpline : ( 09 ) 276.62.899
+basic course in Finnish &quot; A taste of Finnish &quot; English
+you can apply for family caregiver &apos;s support from your municipal social services office .
+a marriage ceremony can take place
+unit also helps people who are victims of human trafficking .
+when an employee &apos;s contract of employment expires they are entitled to a written testimonial of service from their employer .
+the InfoFinland section Work and Enterprise includes lots of information on working and being an entrepreneur in Finland .
+for instructions , call 040.135.8042 on weekdays from 12 noon to 1 pm or contact your local maternity clinic .
+volunteer work can also be an excellent hobby .
+when you are accepted into an institute of higher education , you receive the right to complete both degrees .
+the examinations determine why pregnancy has not started .
+the North Ostrobothnia TE Office also provides services in Haapajärvi , Pudasjärvi and Kuusamo .
+the Global Clinic will not report its customers to the police or other authorities .
+read more on the InfoFinland page EU citizens or Nordic citizens .
+there are both universities and universities of applied sciences in Helsinki .
+disturb or cause damage to birds &quot; nests or their young
+1952 Olympic games in Helsinki
+admission to the Music College is based on an entrance exam .
+Rescue services and readiness
+finding a job or student position
+more information on vocational education in the Ylivieska region and surrounding areas and the contact information of colleges are available on the municipalities &apos; websites and the Oulu South Region portal .
+you can find a printed guide in the business service centres of the municipalities in the area .
+contact information for developersFinnish _ Swedish _ English
+aids
+you have violated entry rules and your application has been rejected , for example due to a sham marriage
+legislation concerning children , youths and familiesFinnish _ Swedish _ English
+read more about the confirmation of paternity in section &quot; recognition of paternity &quot; on this page .
+the staff of the service speak Finnish , Swedish and English .
+if you are also applying for citizenship for your child , your child must also come and prove their identity .
+hotel TiiranlinnaFinnish _ English
+PL 52
+young girls can seek help from Girls &quot; houses ( tyttöjen talo ) which can be found in several municipalities .
+you can find more information on residence permits for employees on the InfoFinland page Work in Finland .
+you need online banking credentials to log in to the service .
+answer the questions asked by the Emergency Response Centre &apos;s operator
+however , you must return the application in Kauniainen .
+discussions take place in Finnish at Language Cafés so it would be good if you already know some Finnish .
+the law stipulates that parents or the child &apos;s guardians are primarily responsible for the child &apos;s well @-@ being and balanced development .
+your child must be under 18 years of age and unmarried on the day that the residence permit decision is made .
+from 2001 , Finland &apos;s refugee quota has been 750 persons per year .
+information on social security and taxation in FinlandFinnish _ Swedish _ English
+read more on the InfoFinland page Company forms .
+the hard of hearing ( kuulovammainen ) refers to deaf and hearing @-@ impaired persons .
+secondary leasing
+the best way to find Swedish @-@ language courses is to use the link on the front page of the service .
+Christmas
+health and safety authorities
+clubs for childrenFinnish _ Swedish _ English
+is part @-@ time work , no more than an average of 25 hours per week during the term
+112 . Ambulances are meant only for serious and urgent situations .
+further information : universities of applied sciences , Universities .
+in some cases , you can also receive a national pension before turning 65 .
+a disabled child at school
+information about living in an institutionFinnish _ Swedish
+basic education for adult immigrantsFinnish
+read more : children &apos;s health .
+more detailed advice on producing a business plan can be obtained from the various business advice centres .
+Kalkkers night CaféFinnish
+preschool education usually starts during the year when the child turns six .
+TE Office ( TE @-@ toimisto ) services
+tel . : 09.3101.3300
+videos that are unrelated to the theme of the competition or in any other way inappropriate will be rejected from the competition .
+the Infopankki.fi online service was published in 2003 jointly by the Caisa international cultural centre and Helsinki City Library at the City of Helsinki Cultural Office .
+if you are not entitled to expense allowance from the party paying you unemployment benefit , the Employment and Economic Development Office may in some situations pay you expense allowance .
+you will be given information about the hospital ( s ) in your area at the maternity clinic .
+sexually transmitted disease clinicFinnish _ Swedish _ English
+many banks have mortgage calculators on their website . these allow you to make advance assessments of whether or not you would be able to repay the mortgage .
+there may be a certain amount of quiet moments in conversations with Finns .
+the Employment and Economic Development Office estimates that the education will improve your professional skills or help you find employment .
+when you get married , you and your spouse must decide your last name .
+Kalajoki has two youth centres , which host open nights and various events .
+Fair Rental practices guide ( pdf , 546 kb ) Finnish _ Swedish _ English
+history of Helsinki
+hobbies for children and young people
+open : weekdays
+rental dwellings are offered by municipalities , companies and private house owners .
+in order to qualify for the licence , you must be at least 18 years of age .
+legal Aid OfficesFinnish _ Swedish _ English
+and the mother has a Finnish personal identity number .
+fill in a registration form available from the education office of Siikajoki .
+the Finnish nature is diverse .
+Foster care means that a child does not live with his or her parents but elsewhere .
+recycled plastic packages are used to make new plastic products .
+Finns consider themselves Western Europeans because the time as a part of the Kingdom of Sweden strongly tied Finns to the Western cultural heritage .
+children may also participate in early education together with a parent in a playground .
+if you find yourself without a dwelling , contact the social welfare office or centre of your municipality of residence .
+sports and exercise servicesFinnish _ Swedish _ English
+libraries
+further information : violence .
+can the lessor demand afterwards that I should compensate for the defects that I have not caused ?
+if you have problems with alcohol or drugs , you can seek help from the health stations ( terveysasema ) or the social service centres ( sosiaaliasema ) , A Clinic ( A @-@ klinikka ) or the drug treatment clinic , i.e. the h Clinic ( huumehoitoklinikka , h @-@ klinikka ) .
+Espoo also organises let &apos;s read together groups , where women can study Finnish .
+the courses are held in Finnish , English and Russian .
+the TE office , Kela or municipality will determine your right to receive unemployment benefit or income support for the time of your integration plan .
+if you have experienced honour related violence or threats in your family , you can contact Sopu work .
+a single parent bears the sole responsibility for their child &apos;s upbringing .
+vocational upper secondary qualification ( ammatillinen perustutkinto )
+prosecutor
+tel . 09.871.4043
+read more about buying an apartment on InfoFinland page Owner @-@ occupied housing .
+if you cannot speak Finnish , Swedish or English , you can send e @-@ mail or a letter in any other language .
+information about the HUMAK University of Applied SciencesFinnish _ English
+how to use Wilma ( pdf , 239 kt ) Finnish _ English _ Russian _ Estonian _ Turkish _ Kurdish _ Thai _ Vietnamese
+information about the School of MusicFinnish _ Swedish
+this means that you can take a break from collecting your pension . the break can be at least three months and at most two years long .
+such activities are arranged by organisations such as Kalajoki Academy ( Kalajoki Akatemia ) and the Kalajoki Adult Education Centre ( Kalajoen kansalaisopisto ) .
+preparatory education for vocational educationFinnish _ Swedish _ English
+foreign driving licences in Finland
+a variety of associations focusing on areas such as culture and sports operate in Vantaa .
+for example , municipal services include health care and day care for children .
+state official
+tel . 040.135.7913 , 9 am @-@ 10 am on weekdays
+if your marriage ends , you may require both mental support and legal aid .
+if you have made an agreement on attending vocational labour market training in your employment plan , you may receive increased unemployment benefit .
+sick leave is not a vacation . it is granted so that your body can heal , so during sick leave you cannot endanger the healing process through your own activities .
+Finland did not take part in World War I , but nationalism also had an influence on the region of Finland .
+an asylum seeker can be granted refugee status if they have a well @-@ founded fear of being persecuted in their native country for reasons of origin , religion , nationality , belonging to a certain social group or having a political opinion and , for this reason , are unable to return to their native country .
+for further information on sports venues and events in Kalajoki , contact the Sports adviser ( liikuntasihteeri ) or visit the town &apos;s website .
+Finnish legislation guides comprehensive education .
+a marriage certificate ( if you are married )
+employers organise first aid training for their staff at work .
+a few times a year , we raffle off prizes between those who participate in surveys .
+during this education , students practise their Finnish skills , learn how to read expository texts and Polish their study skills .
+hearing @-@ impaired persons often use hearing aids as well .
+you can make a dentist &apos;s appointment through the joint number .
+experiences that cause trauma include :
+the sandy conifer forests are ideal for berry @-@ picking , mushroom @-@ picking and hunting .
+you can contact employers directly , keep an eye on newspaper advertisements and look for vacancies on the websites of operators who provide related services .
+all health service clients have the right to equal treatment without discrimination .
+specialist vocational qualification ( erityisammattitutkinto )
+Puh . ( 09 ) 4711
+intoxicant abuse and gambling addiction
+when you move to Finland on the basis of family ties , you have an unlimited right to work and study in Finland .
+violence and threats are regarded as crimes , irrespective of the victim &apos;s and offender &apos;s cultural background .
+information for foreign studentsEnglish
+service guide for the homeless in Helsinki ( pdf , 3,7 MB ) Finnish _ English _ Russian _ Somali _ Persian _ Arabic _ Bulgarian
+you can also take the form to a Kela office .
+the statement describes the level and contents of the degree and the positions that the degree qualifies you for in the country where you completed it .
+in Finland , foreign programmes have subtitles , so they can be watched in their original language ( mainly in English ) .
+if you want to apply for Finnish citizenship , you can also prove your proficiency in Finnish or Swedish if you have one of the following :
+appeal instructions are appended to the notification letter .
+in crisis situations , you can get help from the City of Vantaa &apos;s Social and Crisis Emergency Services ( sosiaali- ja kriisipäivystys ) , which are always open .
+Easter is a Christian holiday .
+preparatory vocational education
+you can purchase a Travel Card at an HRT sales office ( myyntipiste ) or service point ( palvelupiste ) .
+the Finnish climate is colder than in many other countries .
+account of relationship ( children or other dependent relatives of an EU citizen )
+compulsory education is stipulated by law .
+day care office ( päivähoitotoimisto )
+in the winter it is often slippery outside .
+the usual requirement for getting disability pension is that the applicant has lived in Finland for three years .
+child care at homeFinnish _ Swedish _ English
+it is installed at the same time as the device .
+the municipality of Siikajoki organises a range of cultural activities .
+a child must attend pre @-@ primary education .
+Raahe Vocational Institute also offers preparatory education for immigrants and those who are still uncertain about their future studies .
+information on applying for student financial aidFinnish _ Swedish _ English
+maternity clinic appointments
+civil Service Language Proficiency CertificatesFinnish _ Swedish
+you can request registration in the Finnish Population Information System by ticking the appropriate box on the registration form .
+examples of violence include :
+enterprise Finland
+if , however , you have broken something in the dwelling or failed to pay enough rent , the landlord will not return the whole rent security deposit .
+you can fill in the form online or deliver it to any Kela office , the service point of an authorised pension provider or to the Finnish Centre for Pensions .
+its kindred languages include , for example , Norwegian , Danish and German .
+cleaners
+the rights and obligations of Finnish citizensFinnish _ Swedish _ English
+Raahe District Business Services ( Raahen seudun yrityspalvelut ) Finnish _ Swedish _ English _ German
+permits and notifications relating to entrepreneurshipFinnish _ Swedish _ English
+telephone service for personal customersFinnish _ English
+information about SwedishFinnish _ Swedish
+the person entering the video into the competition ( the maker of the video ) is responsible for making sure that all copyrights pertaining to the video entered in the competition are his / hers to surrender .
+find out more about these benefits on the InfoFinland page Support for pregnant women .
+at least one of the parents is working in Finland and on the basis of this is covered by * innish social security .
+businesses that have the prerequisite to maintain profitable operations , but do not have the down payment or collateral required by banks may be granted a loan or a security by Finnvera .
+you are registered as an unemployed job seeker at the TE Office
+disability benefit for under 16 @-@ year @-@ olds
+you must apply for it within 2 months of falling ill .
+the Finnish Food Safety Authority Evira provides more information about the rules applicable in Finland .
+hearing and ageFinnish
+how to get help
+mental support can be received , for example , in various support groups intended for divorcees .
+you withheld a factor that could have prevented you from receiving the permit , or
+collect dried or fallen wood , twigs , moss or similar on someone else &apos;s property without permission
+you and your common @-@ law spouse have a child together ( in which case you need not have lived together for the past two years )
+Finnish diplomatic missions abroad
+you can also ask about possible vacant office space suitable for businesses .
+if the estate inventory is not completed in time , detrimental effects , such as raised inheritance tax , may result .
+information for gender minoritiesFinnish _ Swedish _ English
+the Raahe @-@ Kalajoki economic region consists of five municipalities : Raahe , Pyhäjoki , Siikajoki , Kalajoki and Merijärvi .
+otherwise , you will pay 35 % tax at source ( lähdevero ) on your salary and you must have a tax @-@ at @-@ source card .
+the tax decision indicates whether the correct amount of taxes has been withheld from your salary .
+persons applying for positions in the public sector ( the state and municipalities ) often need to meet certain educational qualification requirements .
+Rantakatu 5 D , 92100 Raahe
+outdoor exerciseFinnish _ Swedish _ English
+interpreter servicesFinnish _ Swedish _ English
+if you move to Finland for family reasons , you are normally granted a municipality of residence in Finland .
+child care leave can also be part @-@ time .
+nationality
+electronic appointment bookingFinnish _ Swedish _ English
+child care
+Raahe provides municipal day @-@ care centres , family day care ( perhepäivähoito ) and family day care in a group ( ryhmäperhepäivähoito ) .
+address : Ratapihantie 7 ( entrance on the Veturitori side )
+maternity clinics and some maternity hospitals organise family training , which aims at preparing the mother @-@ to @-@ be and the entire family for the coming delivery and caring for the baby .
+the police may extend the residence time marked in your visa or the visa &apos;s validity , if you are unable to leave Finland for a justifiable reason when your visa expires .
+call the emergency number 112 if you need an ambulance , the police or the fire department .
+in that way , you will have a better chance of finding housing .
+you cannot give notice when a fixed @-@ term tenancy agreement is valid .
+anyone can study in open universities of applied sciences .
+help for immigrant menFinnish _ English
+the services of the Helsinki Region Community interpreting Centre are primarily intended for authorities that work with immigrants .
+Tukinainen is a rape crisis centre , which provides help and support to victims of sexual violence .
+if you are looking for a rental dwelling , you can also place an advertisement yourself .
+conscripts in military and civil service
+Steniuksentie 20
+you need a library card to borrow books .
+you have withheld a factor that could have prevented you from being registered or receiving the residence card
+volunteer work does not pay a salary , but the work experience may prove useful when you apply for paid work .
+benefits for families with childrenFinnish _ Swedish _ English
+a sales contract is an agreement specifying , for example , the size , price and condition of the dwelling as well as the day on which the buyer gains possession of the dwelling .
+they are not required to ask for permission , for example , from relatives .
+to read more , go to : violence .
+Kela will not pay for all housing costs
+it makes sense to find out the size of remuneration within your own field in Finland .
+waste which cannot be placed in your own building &apos;s waste containers can be taken to recycling points .
+on the InfoFinland page Employment and entrepreneurship you can find a wealth of information on employment and entrepreneurship in Finland .
+maternity and child health clinic appointments and information service
+if you are covered by Finnish national health insurance ( sairausvakuutus ) , you have the right to apply for sickness allowance ( sairauspäiväraha ) from the Social Insurance Institution of Finland ( Kela ) after the qualifying period for benefit ( omavastuuaika ) .
+help for men in stopping violent behaviorFinnish
+appointments can be made on weekdays at 08.00 @-@ 16.00 by calling 09.816.31300 .
+the available services depend on the legislation of your home country .
+the Act prohibits discrimination based on age , origin , nationality , language , religion , belief , opinion , political activity , trade union activity , family circumstances , health , disability , sexual orientation or other personal characteristics .
+if you need interpreter services due to your hearing defect , you can receive them in order to manage in daily life , such as work , study and attending to matters .
+if you would like to receive counselling in English , send your question through the English @-@ language website of Enterprise Finland .
+children have the right to receive education in their own religion in school .
+the amount of support depends on the needs of the resident .
+you must , however , have a valid visa , if you need a visa to reside in Finland .
+open university
+you have an employment contract , or similar agreement , regarding work you will be conducting in Finland .
+do you need an interpreter ?
+read more : rental dwelling .
+a security lock protects against thieves
+the Finnish Refugee Council ( Suomen Pakolaisapu ry ) is an organisation that strives to promote refugees &quot; basic rights .
+health of the elderly
+linkkiPolli.fi :
+support and activities for people with disabilitiesFinnish
+in addition , there are family day @-@ care providers in Espoo .
+read more on taxation in Finland on the InfoFinland page Taxation .
+Kela compensates a part of the expenses of occupational health care to the employer and entrepreneur if they are necessary and reasonable .
+know when he / she will receive treatment if there is a waiting list
+municipal governmentFinnish _ Swedish _ English
+before you write a job application , read the job advertisement carefully and think about the kinds of skills and competence the employer is looking for .
+express services run throughout the day in both directions between Oulu and Kokkola , and other bus services operate daily to destinations such as Raahe .
+return the form to the local register office within two months of the child &apos;s birth .
+however , gaining asylum is not a given and every applicant &apos;s case is investigated .
+according to Finnish law , employees must be treated well and they must be paid salary .
+in Finland , an employee &apos;s rights are determined according to labour legislation and collective agreements ( työehtosopimus ) .
+report all possible defects to the building maintenance company , such as a leaking water tap .
+the war was fought between the Reds or labour movement and the Whites or government troops .
+an asylum seeker is a person who seeks protection and right of residence in a different country .
+social servicesFinnish _ Swedish _ English
+you can apply for it through the Enter Finland service or at a service point of the Finnish Immigration Service ( Maahanmuuttovirasto ) .
+if you are an asylum seeker and your application has not been processed yet , you cannot register as a resident of the municipality at the Local Register Office , nor use municipal health services .
+participate and influenceFinnish _ Swedish
+read more : moving to Finland
+health services in Vantaa
+living in Finland permanently means that you have an actual home in Finland and that you mainly live in Finland .
+pre @-@ school education in HelsinkiFinnish _ Swedish _ English
+Kela &apos;s rehabilitation is intended for those who are covered by Finnish national health insurance ( sairausvakuutus ) .
+at the Vantaa Adult Education Centre ( Vantaan aikuisopisto ) , 17 @-@ 24 year @-@ old immigrants living in Vantaa can obtain the comprehensive school leaving certificate .
+the Studyinfo.fi service provides further information on the certificates with which you can prove your language proficiency .
+bring with you :
+therefore , he or she cannot assist you in any other matters .
+you can also ask directly at an educational establishment .
+it would be good if all your references and certificates obtained abroad were translated into Finnish or Swedish .
+National pension , guarantee pension and other benefits for pensioners
+female genital mutilation
+when you go to the Local Register Office , please take the following documents with you :
+the grant may cover the whole tuition fee or a part thereof . some grants may also cover other costs .
+you can find information about rehabilitation on the InfoFinland web page rehabilitation .
+the amount usually equals a few per cent of the price of the dwelling .
+Raahe Cultural Services
+Equality ( yhdenvertaisuus ) means that all people are equal regardless of their sex , age , ethnic or national origin , nationality , language , religion or beliefs , opinion , disability , health , sexual orientation or any other circumstance connected to the person .
+you are receiving general housing allowance ;
+however , you may need to fill in a standard form used for translation aid and submit it with the public document .
+the type of vocational education and training for which you can apply , and the application procedure , depends on your existing education .
+do not smoke indoors .
+day care is provided in Finnish or Swedish .
+contact information for Local Register OfficesFinnish _ Swedish _ English
+you will pay the same amount of tax on all your income .
+Equality Act
+if you are planning to study in Finland , more information is also available on the InfoFinland pages Foreign students in Finland and Student .
+the housing allowance ( asumistuki ) granted by Kela ( the Social Insurance Institution of Finland ) , is meant for housing @-@ related costs .
+sometimes , the employer may ask the employee to work overtime .
+how do I get the testimonial of service ?
+the original birth certificates of your children ( if you have children under 18 years old who are moving to Finland )
+in Finland , it is commonplace to buy second @-@ hand ( used ) goods , and it is easy to find good @-@ quality used articles .
+the housing allowance is 80 per cent of the remainder .
+information on equality and non @-@ discrimination is available on the InfoFinland page Equality and non @-@ discrimination .
+tel . 09.3104.4556 ( Mon @-@ Fri 9 am @-@ 15 noon )
+in some situations , you are entitled to receive income support ; please contact your local social welfare office for information on applying for such support .
+the Single parents &quot; Association is a civic organisation founded by single parents which offers activities for its member families .
+applying for a day @-@ care positionFinnish _ Swedish _ English
+you can call a shelter at any time of the day or night .
+a written consent from the boy &apos;s guardians is required for the circumcision .
+child health clinic , telephone : 044.479.3449
+Finnish pronunciation is very regular .
+the court will take into consideration the child &apos;s best interest and his or her own wishes .
+Ylivieska 35 council members
+information on VantaaFinnish
+it is tax funded and therefore free @-@ of @-@ charge for families .
+if your dwelling has been damaged as a result of , say , a fire or water damage home insurance can , in some cases , cover a part of the additional living expenses .
+applying for sickness allowanceFinnish _ Swedish _ English
+tel . 040.3156.299
+if you are taking care of a child at home and temporarily need a carer for the child , for example to run errands , you can contact the child care help service ( hoitoapupalvelu ) .
+open on Tuesday @-@ Wednesday at 9 am @-@ 3 pm
+basic course in Finnish , UunoFinnish
+advice is offered , for example , by :
+immigrant guidance and integration
+Finnish for working lifeFinnish
+further information : children in a divorce .
+her partner can participate in the decision @-@ making , if she wants to take his opinion into account .
+the application must be submitted to the Finnish Diplomatic Mission or visa application centre at which you apply for the visa .
+more information on the spouses &quot; property is available on the InfoFinland page Rights and obligations of spouses .
+a parent who lives alone with one or several children can get a single @-@ parent supplement to the child benefit for each child .
+all employees must be treated equally .
+the website of the Finnish National Board of Education ( Opetushallitus ) features a search engine that you can use to check where and when you can obtain the certificate .
+opening hours : Monday @-@ Wednesday and Friday at 8 am @-@ 4.15 pm
+upper secondary school Young people without a place of study
+park aunties provide temporary childcare in the mornings .
+open Mon @-@ Fri 9 am @-@ 1 pm and 2.15 pm @-@ 5 pm
+read more : discrimination and racism .
+if your studies continue but your residence permit is about to expire , apply for an extension .
+the police report crimes committed by persons under 18 years to their parents and to child welfare authorities .
+property in divorce
+if your work is continuous , you can also apply for a residence permit in Finland based on work .
+at libraries you can borrow books , read magazines and newspapers , use a computer , study or participate in various events .
+if you are not entitled to use public health services , you can make an appointment at a private clinic .
+in an emergency situation , you will be treated in public health care even if you do not have a municipality of residence in Finland or you are not entitled to medical care based on your work .
+on the other hand , Kalajoki Academy ( Kalajoki Akatemia ) runs a wide range of sports , cultural and leisure activities which are also intended for elderly people .
+depending on the season and region , you can engage in different types of recreation .
+online dictionaries
+selection on discretionary grounds is based on an assessment of
+the elderly
+you can find more information on how to apply as a degree student for a Finnish upper secondary school , vocational school or a higher education institution on the InfoFinland page Applying for education and training .
+information about Sami languagesFinnish _ Swedish
+read more : dental care
+linkkiKiasma :
+weekdays 3 pm @-@ 8 am , Fri @-@ Sun and on holidays around the clock
+video about employee rights in FinlandEnglish _ Chinese _ Arabic _ Thai _ Hindi
+you can ask about basic education and schools in Helsinki at the guidance and service point of the Education Sector .
+you can find information on health services in Kalajoki and Merijärvi on the InfoFinland page Health care in Kalajoki and Merijärvi ( see the section Health services in Kalajoki and Merijärvi ) .
+the Finnish Immigration Service will verify your identity and the route through which you travelled to Finland and assess whether you can receive asylum in Finland .
+the calls are taken by crisis workers and trained volunteer support persons .
+read more on the InfoFinland page Services for disabled persons .
+sauna
+read more on the InfoFinland page Can I lose my residence permit .
+discussions at Language Cafés take place in Finnish , so it would be good if you know some Finnish .
+regulated professions include some public sector jobs and positions that require a right to practise that profession .
+they are the Fortress of Suomenlinna , Old Rauma , Petäjävesi Old Church , Verla Groundwood and Board Mill , the Bronze Age burial site of Sammallahdenmäki , the Struve Geodetic Arc and the High coast / Kvarken archipelago .
+health care in the Raahe @-@ Kalajoki Region ( see the section Health services in the Raahe @-@ Kalajoki Region ) .
+applying to a university of applied sciences
+there are three TE Offices in Helsinki .
+you can find other important information on the InfoFinland page Moving to Finland .
+non @-@ discrimination
+if your native language is not Finnish , Swedish or Sami , you can take the test for Finnish or Swedish as a second language .
+there is also private early childhood education available in Finland .
+the health centre treats the most common mental health problems .
+students can apply for student housing , which is normally cheaper than other alternatives .
+you may receive the allowance if you need help constantly because of your disability or illness .
+read more about Finnish citizenship on the InfoFinland page Finnish citizenship .
+it is intended for city residents .
+make the notification of move one week after your move at the latest .
+address : Kansantie 4 , 92400 Ruukki
+youth servicesFinnish _ English _ Russian
+InfoFinland page In Finland without a residence permit contains more information for those without official documents .
+Upseerinkatu 3 B
+if the matter cannot be resolved at the workplace , contact the occupational health and safety section of the Regional State Administrative Agency of Northern Finland ( Pohjois @-@ Suomen aluehallintoviraston työsuojelun vastuualue ) .
+student &apos;s right to workFinnish _ Swedish _ English
+a list of the Convention countries can be found in English on the website of Hague Conference on Private International Law .
+you can type the application into an email message or add it as an email attachment with the CV .
+you can call Victim Support Finland if you or person close to you has fallen victim to a crime or if you have witnessed a crime .
+in Finland , punishing children physically ( corporal punishment ) is against the law .
+public services onlineFinnish _ Swedish _ English
+for example , if your home is 65 square metres in size , you will need two smoke detectors .
+more information is available on the website of the Helsinki Upper Secondary School for Adults .
+store food correctly .
+you can also take photos of the defects .
+you need to have a tax number ( veronumero ) , if you work at a construction or installation site in Finland .
+for more information on medical rehabilitation for persons with severe disabilities , please contact Kela .
+you can apply for one at any library .
+recognition of a degree is a decision about which qualifications a degree completed in a foreign country gives you to work or apply for a student position in Finland .
+if the child has received refugee status on 1 July 2016 or later , you must apply for a residence permit within three months of your child gaining refugee status in Finland .
+the adult education and apprenticeship unit of the Federation of Education in Jokilaaksot ( JEDU ) offers adult education and apprenticeship services .
+oral health care
+police
+contact information for KelaFinnish _ Swedish _ English
+starting a business
+you can study Finnish or Swedish .
+as a guest at a Finnish home
+you can file for a divorce alone , even if your spouse does not wish to separate from you .
+Finland is a bilingual country
+applications can also be sent to the District Court office by post or e @-@ mail or as a telegram .
+Finnish Adult Education CentreFinnish _ English _ Russian
+children have a single hot meal in school . it is free @-@ of @-@ charge .
+Appealing a decision on asylumFinnish _ Swedish _ English
+you can also live at home and visit rehabilitation provider from there .
+if everything is well otherwise , the C @-@ section can be planned beforehand .
+tel . 040.315.6299
+you must arrive at work promptly at the agreed @-@ upon time .
+in some municipalities , you can also submit the enrolment online .
+pre @-@ school education is education for children at the age of six that is arranged at day care centres or at schools .
+the contact information for schools in Kalajoki and further information on registration are available on the town &apos;s website .
+in addition , citizens of Nordic countries and EU member states and their family members have the right to work and study in Finland .
+if your work will last over three months , apply to the Finnish Immigration Service for a seasonal work residence permit .
+it is recommended to make an appointment in advance to visit a service point of the Finnish Immigration Service .
+legal assistance for asylum seeker
+the police will initiate an investigation if there is reason to suspect an offence .
+do not call the emergency number if it is not a real emergency .
+if you need services for disabled or mentally disabled persons , call the disability services &apos; social worker at 044.439.3717 .
+real estate usually comprises a detached house and the related plot .
+if the dwelling has been constructed with a state subsidy , you can apply to stay there if
+it is pronounced somewhat differently from the Swedish spoken in Sweden .
+everyman &apos;s rights ( jokamiehenoikeudet ) are observed in Finland .
+if you are not entitled to public health services in Finland , you can make an appointment at a private clinic .
+tel . 044.469.1356
+tel . ( 09 ) 8195.5360
+where to book an interpreter ?
+each spouse is responsible alone for the debt they have acquired before or during the marriage .
+health services in OulainenFinnish _ English
+citizens of other countries must register in person at the TE Office .
+for more information , go to the website of the Finnish National Board of Education .
+the language of tuition is Finnish .
+a death certificate can be obtained when the cause of death has been identified .
+councillors and deputy councillors are elected through municipal elections for a term of four years .
+skill levels of the Civil Language Proficiency CertificateFinnish _ Swedish
+further details are available from the College &apos;s website .
+Finland is a republic and a member of the European Union ( EU ) .
+with it you can prove your proficiency in Finnish or Swedish .
+address : Antinkatu 1 , 2nd floor
+you use the dwelling as your own permanent home .
+moving to Finland
+the service is open Mon @-@ Fri at 8 am @-@ 4 pm .
+during 1867 @-@ 1875 , Raahe was the largest ship owner town in Finland , with the majority of citizens earning their living from seafaring .
+support for financial problems
+read more on the InfoFinland web page Family problems .
+I ended my job at my previous workplace but did not receive a testimonial of service .
+Finnvera is a financing company owned by the state of Finland .
+electricity
+part @-@ ownership dwelling
+education Department Guidance and Service Office :
+real estate
+the service provides suggestions on how to get from one place to another using public transport .
+if you are unable to apply online , you can bring a paper application form and its appendices to the closest Finnish diplomatic mission or , in Finland , to a service point of the Finnish Immigration Service .
+the municipality supervises private early childhood education .
+service in English : 0295.020.713
+foreign students are normally not eligible for student financial aid .
+seasonal workerâ € ™ s residence permit
+this must be done every time an employment contract begins .
+crime investigation
+emergency youth shelter

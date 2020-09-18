@@ -35,21 +35,35 @@ def get_args():
     parser.add_argument('--threshold-tgt', default=2, type=int,
                         help='map words appearing less than threshold times to unknown')
     parser.add_argument('--num-words-tgt', default=-1, type=int, help='number of target words to retain')
+    parser.add_argument('--vocab-src', default=None, type=str, help='path to dictionary')
+    parser.add_argument('--vocab-trg', default=None, type=str, help='path to dictionary')
+
     return parser.parse_args()
 
 
 def main(args):
     os.makedirs(args.dest_dir, exist_ok=True)
-    src_dict = build_dictionary([args.train_prefix + '.' + args.source_lang])
-    tgt_dict = build_dictionary([args.train_prefix + '.' + args.target_lang])
+    if not args.vocab_src:
+        src_dict = build_dictionary([args.train_prefix + '.' + args.source_lang])
 
-    src_dict.finalize(threshold=args.threshold_src, num_words=args.num_words_src)
-    src_dict.save(os.path.join(args.dest_dir, 'dict.' + args.source_lang))
-    logging.info('Built a source dictionary ({}) with {} words'.format(args.source_lang, len(src_dict)))
+        src_dict.finalize(threshold=args.threshold_src, num_words=args.num_words_src)
+        src_dict.save(os.path.join(args.dest_dir, 'dict.' + args.source_lang))
+        logging.info('Built a source dictionary ({}) with {} words'.format(args.source_lang, len(src_dict)))
 
-    tgt_dict.finalize(threshold=args.threshold_tgt, num_words=args.num_words_tgt)
-    tgt_dict.save(os.path.join(args.dest_dir, 'dict.' + args.target_lang))
-    logging.info('Built a target dictionary ({}) with {} words'.format(args.target_lang, len(tgt_dict)))
+    else:
+        src_dict = Dictionary.load(args.vocab_src)
+        logging.info('Loaded a source dictionary ({}) with {} words'.format(args.target_lang, len(src_dict)))
+
+    if not args.vocab_trg:
+        tgt_dict = build_dictionary([args.train_prefix + '.' + args.target_lang])
+
+        tgt_dict.finalize(threshold=args.threshold_tgt, num_words=args.num_words_tgt)
+        tgt_dict.save(os.path.join(args.dest_dir, 'dict.' + args.target_lang))
+        logging.info('Built a target dictionary ({}) with {} words'.format(args.target_lang, len(tgt_dict)))
+
+    else:
+        tgt_dict = Dictionary.load(args.vocab_trg)
+        logging.info('Loaded a target dictionary ({}) with {} words'.format(args.target_lang, len(tgt_dict)))
 
     def make_split_datasets(lang, dictionary):
         if args.train_prefix is not None:
