@@ -37,6 +37,7 @@ def get_args():
     parser.add_argument('--num-words-tgt', default=-1, type=int, help='number of target words to retain')
     parser.add_argument('--vocab-src', default=None, type=str, help='path to dictionary')
     parser.add_argument('--vocab-trg', default=None, type=str, help='path to dictionary')
+    parser.add_argument('--quiet', action='store_true', help='no logging')
 
     return parser.parse_args()
 
@@ -48,22 +49,26 @@ def main(args):
 
         src_dict.finalize(threshold=args.threshold_src, num_words=args.num_words_src)
         src_dict.save(os.path.join(args.dest_dir, 'dict.' + args.source_lang))
-        logging.info('Built a source dictionary ({}) with {} words'.format(args.source_lang, len(src_dict)))
+        if not args.quiet:
+            logging.info('Built a source dictionary ({}) with {} words'.format(args.source_lang, len(src_dict)))
 
     else:
         src_dict = Dictionary.load(args.vocab_src)
-        logging.info('Loaded a source dictionary ({}) with {} words'.format(args.target_lang, len(src_dict)))
+        if not args.quiet:
+            logging.info('Loaded a source dictionary ({}) with {} words'.format(args.target_lang, len(src_dict)))
 
     if not args.vocab_trg:
         tgt_dict = build_dictionary([args.train_prefix + '.' + args.target_lang])
 
         tgt_dict.finalize(threshold=args.threshold_tgt, num_words=args.num_words_tgt)
         tgt_dict.save(os.path.join(args.dest_dir, 'dict.' + args.target_lang))
-        logging.info('Built a target dictionary ({}) with {} words'.format(args.target_lang, len(tgt_dict)))
+        if not args.quiet:
+            logging.info('Built a target dictionary ({}) with {} words'.format(args.target_lang, len(tgt_dict)))
 
     else:
         tgt_dict = Dictionary.load(args.vocab_trg)
-        logging.info('Loaded a target dictionary ({}) with {} words'.format(args.target_lang, len(tgt_dict)))
+        if not args.quiet:
+            logging.info('Loaded a target dictionary ({}) with {} words'.format(args.target_lang, len(tgt_dict)))
 
     def make_split_datasets(lang, dictionary):
         if args.train_prefix is not None:
@@ -110,13 +115,15 @@ def make_binary_dataset(input_file, output_file, dictionary, tokenize=word_token
 
     with open(output_file, 'wb') as outf:
         pickle.dump(tokens_list, outf, protocol=pickle.HIGHEST_PROTOCOL)
-        logging.info('Built a binary dataset for {}: {} sentences, {} tokens, {:.3f}% replaced by unknown token'.format(
+        if not args.quiet:
+            logging.info('Built a binary dataset for {}: {} sentences, {} tokens, {:.3f}% replaced by unknown token'.format(
             input_file, nsent, ntok, 100.0 * sum(unk_counter.values()) / ntok, dictionary.unk_word))
 
 
 if __name__ == '__main__':
     args = get_args()
-    utils.init_logging(args)
-    logging.info('COMMAND: %s' % ' '.join(sys.argv))
-    logging.info('Arguments: {}'.format(vars(args)))
+    if not args.quiet:
+        utils.init_logging(args)
+        logging.info('COMMAND: %s' % ' '.join(sys.argv))
+        logging.info('Arguments: {}'.format(vars(args)))
     main(args)
